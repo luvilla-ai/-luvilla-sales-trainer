@@ -560,6 +560,590 @@ WEAK: "Just checking in to see if you had any questions."
 STRONG: "I don't want this drifting without clarity. From your side, is the real issue fee, fit, or timing? If we identify that directly, we can decide quickly whether this should move forward."
 
 ═══════════════════════════════
+FEE NEGOTIATION SCENARIOS
+═══════════════════════════════
+
+RULE: Never discount without diagnosing. Never move on fee before understanding why.
+
+SCENARIO A — "22% 하면 할게요" / "If you do 22%, I'll sign"
+Rep: "I appreciate you being direct. Before I respond to that — can I ask what's driving the 22%? Is it that the 25% feels disproportionate to what we deliver, or is it more of a negotiating position?"
+[If scope concern] → "Then let me make sure the scope is crystal clear first. If after that the 25% still doesn't feel right, we can have a different conversation."
+[If just negotiating] → "I hear you. Our standard is 25% and I'm not in a position to move on that today. What I can do is show you why the net payout at 25% is higher than what you'd get elsewhere at 20%. Let me pull that comparison."
+RULE: Never move to 22% without founder approval. Hold the line with confidence, not apology.
+
+SCENARIO B — "20%면 사인할게요" / "I'll sign at 20%"
+Rep: "I want to close this — and I want to do it right. 20% isn't something I can commit to without taking it back internally. What I can tell you is: if the property is as strong as I think it is, and if the numbers justify it, I'll come back to you with a clear answer within 24 hours. Is that fair?"
+[Take to Daniel. Daniel decides. Rep never quotes exceptions casually.]
+RULE: This is a founder escalation. Do not cave on the call. Create a 24-hour window.
+
+SCENARIO C — "다른 회사는 18%래요" / "Another company quoted 18%"
+Rep: "I believe you. And I'd ask one question: what exactly is included at 18%? Because fee percentage is meaningless without scope. If they're doing active pricing, channel mix management, corporate relocation outreach, direct booking development, and full maintenance coordination — then 18% is genuinely cheaper and you should consider it. If they're listing on Airbnb and hoping for the best, then 18% is expensive for what you actually get. Let me show you the scope comparison side by side."
+RULE: Never match 18%. Make them compare apples to apples. Performance gap covers the fee gap.
+
+SCENARIO D — Owner pushes repeatedly, won't move
+Rep: "I've heard you on the fee and I want to be straight with you. Our model is 25% because that's what allows us to run the operation properly — active pricing, channel management, guest screening, PM oversight, the whole thing. If we were at 18%, we'd have to cut something. And the cut always shows up in performance. I'd rather you use a company that fits your budget than one that overpromises and underdelivers. If 25% genuinely doesn't work for you, I respect that — but I won't pretend we can do the same job for less."
+WHY: Confidence without desperation. Makes owner respect the position.
+
+═══════════════════════════════
+CONTRACT & TERMS QUESTIONS
+═══════════════════════════════
+
+"How long is the contract?"
+"Our standard agreement is 12 months. There's a 60-day notice clause built in — so if at any point it's not working for you, you're not trapped. We'd rather earn the relationship month after month than lock you into something that doesn't feel right."
+
+"What if I want to exit early?"
+"The 60-day notice clause covers that. You give us 60 days notice, we wind down operations cleanly, and you're out. We've never had an owner want to leave because performance was strong — but the clause is there because we believe you should always feel like you have an exit if you need one."
+
+"Is it an exclusive contract?"
+"Yes — we need exclusivity to manage the property properly. We can't optimize pricing, channel mix, and guest experience if another operator or platform is running parallel bookings. The exclusivity is what allows us to actually take ownership of results."
+
+"What happens if I want to sell the property?"
+"Straightforward — you give us 60 days notice, we fulfill existing bookings within that window, and the agreement closes cleanly. We've done this before. It's not complicated."
+
+"Can I still use the property myself?"
+"Yes. You just block the dates in advance — we handle everything around your usage. Most owners block 2-4 weeks a year. As long as it's planned in advance, there's no issue."
+
+"What if I'm not happy with performance?"
+"Then we should have that conversation directly and immediately — not at the end of a month. Our reporting is monthly but our communication is ongoing. If something isn't working, we want to know before you're frustrated, not after. And the 60-day exit clause is always there if it comes to that."
+
+═══════════════════════════════
+FIRST MEETING STRUCTURE
+═══════════════════════════════
+
+ZOOM MEETING (most common for busy owners):
+Prep before: Pull revenue projection for their specific property. Have 1-2 comparable properties ready to reference.
+
+Structure (30 min):
+1. (3 min) Quick context — "Here's what I'd like to cover today. First I want to understand your situation, then I'll show you how we'd approach this property specifically, and we'll leave time for any questions. Sound good?"
+2. (7 min) Discovery — current setup, what's not working, what they care about most
+3. (8 min) Luvilla model — hybrid strategy, 6 revenue levers, what we actually do
+4. (7 min) Numbers — revenue projection for their property, comparable properties, 75/25 breakdown
+5. (5 min) Objection handling
+6. (3 min) Close — "Based on what we covered, I think there's a real fit. The next step is getting the agreement in front of you. I'll send it today — if the terms match what we discussed, is there any reason we wouldn't move forward?"
+
+IN-PERSON MEETING (stronger for skeptical or high-value owners):
+Same structure but:
+- Bring printed revenue projection (not just screen)
+- Arrive 5 minutes early
+- Dress like their peer, not their vendor
+- Don't pitch in the first 5 minutes — ask about the property first
+- Let them show you around if they offer — they're proud of the asset
+
+RULE: Always end with a specific next step. Never leave without agreement on what happens next.
+
+═══════════════════════════════
+COMPETING AGAINST OTHER COMPANIES
+═══════════════════════════════
+
+"I'm comparing three companies right now"
+"That's the right approach. Here's what I'd suggest comparing — not the fee headline, but these four things: who actually takes execution responsibility (not just lists), how aligned the incentive structure is, how strong their communication is, and how well their model fits your specific property type. If you compare on those four, the right answer becomes obvious. Happy to walk you through how we'd stack up if that's useful."
+
+"Company X said they'd guarantee $X per month"
+"I'd be careful with that. A guaranteed number before seeing your property, your market position, and your current setup is either a low-ball number designed to lock you in, or a promise that isn't backed by anything real. We don't make guarantees — but we show you real data from comparable properties we manage. That's a more honest conversation."
+
+"Company X has been around longer than you"
+"Longevity is one measure. Performance is another. The question isn't how long a company has been operating — it's what results they're producing right now for properties like yours. I can show you our current portfolio performance. I'd ask them to do the same."
+
+"I'm going to try self-managing first"
+"Completely your call. Can I ask — what's the specific thing you want to test? If it's whether the demand is there, I can show you that with data right now. If it's whether you can handle the operations, that's a real experiment worth running. Just know that the opportunity cost of the learning curve — the months of suboptimal pricing, wrong channel mix, inconsistent reviews — is real. What would make you decide after 3 months that you'd rather hand it off?"
+
+═══════════════════════════════
+SETUP & FURNISHING QUESTIONS
+═══════════════════════════════
+
+"How much do I need to spend on furnishing?"
+"Depends on the property size and current condition. For a typical 4-5 bedroom luxury property in Vancouver, setup runs CA$40,000–$80,000. That covers premium bedding, furniture, kitchen essentials, décor, and any tech setup. The ROI on that investment based on our current portfolio is typically under 3 months."
+
+"Where do we buy the furniture?"
+"We have preferred vendors and we can guide the entire process — or you can source independently if you have relationships. Either way, we give you a specific checklist of what's needed for the property to perform at the level we're projecting. We don't leave you guessing."
+
+"Can we use our existing furniture?"
+"Sometimes yes, sometimes no — depends on the condition and style. We'll do a property assessment and give you a clear list: what stays, what needs upgrading, what needs to be added. We're not going to ask you to replace things that don't need replacing."
+
+"How long does setup take before we can start?"
+"From agreement signed to first booking, typically 3-4 weeks. That covers the furnishing, photography, listing creation, platform registration, and channel optimization. We've done this enough times that the process is tight."
+
+"Do you help with the setup process?"
+"Yes. We project-manage the setup from start to first booking. You're not doing this alone — we've done it 20 times and we know exactly what needs to happen in what order."
+
+═══════════════════════════════
+LAUNCH & FIRST MONTH QUESTIONS
+═══════════════════════════════
+
+"Will I earn money from day one?"
+"Not literally day one — first bookings usually come in within the first week of listing, and the first payout comes at the end of month one. The ramp-up period is typically 2-4 weeks from listing to first booking confirmed. After that, the calendar fills. We've never had a property sit empty past the first month."
+
+"How long until the property is fully optimized?"
+"Months 1-2 are the calibration period — we're testing pricing, adjusting positioning, building review history. Month 3 onwards is when performance stabilizes. Most properties hit their target occupancy range by month 3. We're transparent about this — we don't promise full performance from day one."
+
+"What's a realistic first month income?"
+"Honestly, first month is usually 60-70% of steady-state performance. Reviews aren't built yet, pricing is conservative at launch to capture early bookings, and the calendar isn't fully filled. I'd rather set that expectation correctly than have you disappointed. By month 3, you'll be at full performance. Let me show you the projection with a month-by-month ramp."
+
+"What if the first month is slow?"
+"We'll tell you why. We monitor performance daily and we communicate proactively. If something isn't working — pricing, positioning, photos — we adjust immediately. Slow first month is normal. Slow third month means something is wrong and we need to fix it."
+
+═══════════════════════════════
+REPORTING & TRANSPARENCY QUESTIONS
+═══════════════════════════════
+
+"How do I receive my earnings? When?"
+"Monthly bank transfer, directly to your account. We close the books on the last day of each month and transfer within 5 business days. You'll receive a monthly statement alongside the transfer showing gross revenue, our fee, any expenses, and your net payout. No surprises."
+
+"What does the monthly report look like?"
+"It covers: total bookings, occupancy rate, gross revenue, our management fee, any maintenance costs, and your net payout. We also include a brief market note — how your property performed relative to comparable properties. It's designed so you can read it in 5 minutes and understand exactly what happened."
+
+"Can I see performance in real time?"
+"Yes — we have an owner portal where you can see your calendar, bookings, and revenue at any time. You don't have to wait for the monthly report. If you want to check at midnight, you can."
+
+"How often do you communicate with me?"
+"Monthly report is standard. But we also communicate proactively — if something comes up mid-month, you hear about it from us before you notice it yourself. We don't wait for you to ask."
+
+"What if I have a question between reports?"
+"You message us and we respond within 24 hours. For urgent issues, same day. You'll have a dedicated point of contact — not a call center."
+
+═══════════════════════════════
+MAINTENANCE & EMERGENCY QUESTIONS
+═══════════════════════════════
+
+"What happens if something breaks at 2am?"
+"We handle it. We have a 24/7 operations line and a network of trusted vendors for emergency situations. You won't get a call in the middle of the night — that's our job. You'll see it in the monthly report with full documentation."
+
+"Who pays for repairs?"
+"Routine maintenance and minor repairs come out of revenue before your payout — these are operational costs. Any repair above CA$500 requires your approval before we proceed. We document everything and send you the invoice."
+
+"What's the approval threshold for repairs?"
+"CA$500. Below that, we handle it and report it. Above that, we contact you first, explain what's needed and why, and wait for your go-ahead before doing anything. You're never surprised by a large expense."
+
+"What if a guest causes damage?"
+"We document it immediately with timestamped photos, file a claim through Airbnb's Host Guarantee (up to $3M USD) and our $2M liability policy, and pursue reimbursement. The owner is not out of pocket for guest-caused damage that's covered by insurance."
+
+"Do you have your own maintenance team or do you outsource?"
+"We work with a vetted network of trusted local vendors — plumbers, electricians, cleaners, handymen — who we've worked with repeatedly and trust. We don't have a captive team, which means we're not incentivized to create work. We only call vendors when something actually needs fixing."
+
+"What's your emergency response time?"
+"For genuine emergencies — water damage, no heat, security issues — we have someone on-site or a vendor dispatched within 2 hours. For non-urgent maintenance, within 24-48 hours. We define 'emergency' clearly in our agreement so there's no ambiguity."
+
+═══════════════════════════════
+TAX & FINANCIAL QUESTIONS
+═══════════════════════════════
+
+"How does tax work for STR income?"
+"STR income is taxable in Canada — it goes on your personal or corporate tax return as rental income. We provide you with a year-end summary of all revenue and expenses, which your accountant uses to file. We strongly recommend working with an accountant familiar with STR income — it's not complicated, but there are deductions available (management fees, maintenance, etc.) that you want to capture properly."
+
+"Do I need to charge GST/HST?"
+"If your annual STR revenue exceeds CA$30,000, you're required to register for GST/HST and charge it on bookings. We can help you understand where you stand — but we recommend confirming with your accountant. Airbnb collects and remits GST/HST on their platform, which simplifies compliance."
+
+"What expenses are deductible?"
+"Our management fee, maintenance costs, furnishing (capital cost allowance), insurance, and a portion of utilities if applicable. Your accountant will advise specifically. We make sure our statements are clean and itemized so there's nothing ambiguous."
+
+"What about the empty home tax / vacancy tax?"
+"If the property is operating as an STR, it's considered occupied and exempt from the empty home tax. We make sure your operating status is properly documented. This is one of the reasons proper STR licensing matters — it protects you on the tax side too."
+
+═══════════════════════════════
+PRIVACY & SECURITY QUESTIONS
+═══════════════════════════════
+
+"What if guests touch my personal belongings?"
+"We recommend removing or locking away anything truly personal or irreplaceable before we start — jewelry, documents, sentimental items. We provide a lockable storage solution in the property for your personal items. Guests are given clear house rules about off-limit areas. Our PM inspects after every checkout."
+
+"What about valuables?"
+"Same answer — lock them away or remove them. We can help you set up a lockable storage area during the setup phase. We don't expect guests to misuse the property, but we don't rely on trust alone."
+
+"Can I install security cameras?"
+"Interior cameras are not permitted — that would violate guest privacy and Airbnb's policies. Exterior cameras (driveway, entrance) are allowed and actually recommended. We can advise on what's appropriate and compliant."
+
+"How do guests access the property?"
+"Smart lock with a unique code generated per booking. The code expires automatically at checkout. No physical keys, no lockboxes, no risk of unauthorized copies. Full access log available."
+
+"What if I want to check on the property myself?"
+"You can visit any time the property isn't booked — just let us know so we can coordinate. During a booking, we ask that you respect guest privacy. Outside of bookings, it's your property."
+
+═══════════════════════════════
+STR LICENSE & COMPLIANCE QUESTIONS
+═══════════════════════════════
+
+"Do I need to get the license myself or do you handle it?"
+"We guide the entire process. You're the applicant — it has to be in your name as the property owner — but we walk you through every step, prepare the documents, and tell you exactly what to submit and where. Most owners say it's much simpler than they expected with us guiding it. We've done this 20 times."
+
+"How long does the license take?"
+"City of Vancouver STR business license typically takes 2–4 weeks from application to approval, assuming your property is compliant and the application is complete. BC provincial registry takes about a week once you have the city license number. We factor this into the launch timeline — so you're not waiting around after setup is done."
+
+"What if the license gets rejected?"
+"It's rare if the property genuinely qualifies — meaning it's your principal residence and the unit is legal. If there's an issue, we diagnose it immediately: is it a documentation problem, a compliance issue with the unit, or a strata restriction? Most rejections are fixable. If the property genuinely doesn't qualify for STR, we'll tell you honestly rather than waste your time."
+
+"I live in a strata / condo building — does that change things?"
+"Yes — this is important. Strata buildings can have their own bylaws that restrict or prohibit STR, independent of city regulations. Before we go any further with a strata property, we check the strata bylaws first. If the strata prohibits STR, the city license doesn't matter — you can't operate. We verify this upfront so there are no surprises."
+
+"Do I need both the city license and the provincial registry?"
+"Yes — both are required. The City of Vancouver STR business license ($1,060/year) comes first. Once you have that number, you register with the BC Short-Term Rental Registry. Airbnb and VRBO are required to display both numbers on your listing — and they remove non-compliant listings. We make sure both are in place before we go live."
+
+"Can we start before the license comes through?"
+"No — and we won't. Operating without a license risks fines of up to $3,000/day and listing removal. More importantly, it puts your property at risk. We use the licensing period productively — photography, setup, listing creation — so that the moment the license arrives, we go live immediately. No wasted time."
+
+"Does the license need to be renewed?"
+"Yes — annually by December 31st. We track this and remind you well in advance. It's CA$1,060/year. We prepare the renewal documents and guide you through the same process. It's much simpler after the first time."
+
+"Who pays for the license?"
+"The license is your cost as the property owner — CA$1,060/year for the city license, plus the BC provincial registry fee. We don't mark this up. We guide the process at no extra charge as part of our onboarding. Think of it as a one-time setup cost that unlocks the whole operation."
+
+"What if regulations change in the future?"
+"Vancouver's STR regulations have evolved and will continue to. What we can tell you is: we operate strictly within current regulations, we monitor changes proactively, and we adapt our strategy accordingly. If mid-term stays become more favorable, we shift the channel mix. If new rules come in, we adjust. We've never had a property shut down due to non-compliance because we stay ahead of it."
+
+"Is the license tied to me personally or to the property?"
+"It's tied to both — the property address and you as the principal resident/owner. If you sell the property, the license doesn't transfer. If you stop being the principal resident, you need to reassess eligibility. These are exactly the conversations to have with your accountant and us together."
+
+═══════════════════════════════
+CHINESE OWNER SPECIFIC — CULTURAL & COMMUNICATION
+═══════════════════════════════
+
+NOTE FOR REPS: 40s+ Chinese female owners are a primary target. Adapt accordingly.
+- Be patient. Trust builds slowly. Don't rush to close on the first call.
+- Use data and specifics — not "we're great," but "here are the exact numbers."
+- Respect the family asset mindset — this is often generational wealth, not just income.
+- If they want to consult family members, facilitate it — don't bypass it.
+- Face matters. Never make them feel they made a mistake or were wrong.
+
+"Do you work with many Chinese property owners in Vancouver?"
+"Yes — a significant portion of our current owners are Chinese-Canadian or Chinese-international. Vancouver's luxury market skews that way and we understand the specific considerations — asset protection, family wealth management, tax implications for foreign owners, and the importance of discretion."
+
+"Can we communicate in Chinese?"
+"Our primary communication is in English, but we can accommodate Mandarin or Cantonese for key conversations if needed. Our goal is to make sure you fully understand every aspect of the agreement and the operation — language should never be a barrier to that."
+
+"My husband/family wants to review everything first"
+"Absolutely — and that's the right approach for a decision like this. The most efficient thing is a call with everyone involved so I can walk through the model, the numbers, and answer questions directly. Much better than information getting lost in translation between conversations. Would it work to schedule that together?"
+
+"We want to think about it as a family"
+"Of course. This is a significant asset and the right decision-making process matters more than speed. Can I ask — is there specific information that would help your family evaluate this properly? A revenue projection, a reference from another owner, a clearer breakdown of the contract terms? I want to make sure you have everything you need to make a confident decision."
+
+═══════════════════════════════
+NEIGHBOR & NOISE QUESTIONS
+═══════════════════════════════
+
+"What if neighbors complain about noise?"
+"We handle it directly. We install noise monitoring devices (decibel sensors — not audio recording) in every property. If noise exceeds threshold, we get an automatic alert and contact guests immediately. Vancouver quiet hours are 10pm–7am. Our house rules make this explicit and guests acknowledge it at booking. If a neighbor complains, we respond the same day — we don't leave the owner to deal with it."
+
+"Will my neighbors know I'm doing STR?"
+"In a detached home, neighbors typically notice increased foot traffic. We recommend a brief introduction to immediate neighbors before launch — it builds goodwill and reduces complaints. We can help you draft a simple note. Most neighbors are fine when they know there's a responsible operator managing it, not a random host."
+
+"What if a neighbor files a formal complaint with the city?"
+"The city investigates based on documented violations — not just complaints. Our noise monitoring, house rules, guest screening, and compliance documentation protect you. If an investigation occurs, we provide all documentation to demonstrate proper operation. We've never had a property shut down due to neighbor complaints."
+
+"What about parking issues?"
+"We include clear parking instructions in the listing, pre-arrival message, and house manual. Each guest knows exactly where they can and cannot park. For properties with limited parking, we factor that into the listing so guests arrive with correct expectations. Parking disputes with neighbors are rare when the rules are clear upfront."
+
+"Can guests bring extra people who aren't on the booking?"
+"No — our house rules cap the number of guests at the listed maximum and require all guests to be registered. Smart lock access is tied to the booking. If we detect unauthorized additional guests, we address it immediately. This is part of why guest screening matters."
+
+═══════════════════════════════
+INSURANCE QUESTIONS
+═══════════════════════════════
+
+"Does my existing home insurance cover STR?"
+"Almost certainly not — standard home insurance typically excludes commercial activity, which STR qualifies as. You need to notify your insurer or switch to a policy that explicitly covers short-term rentals. We strongly recommend doing this before we go live. We can recommend brokers who specialize in STR coverage."
+
+"What insurance do I need?"
+"Minimum: a home insurance policy that covers STR activity, typically CA$1M–$2M liability. On top of that, Airbnb's Host Guarantee covers up to $3M USD for guest-caused damage. VRBO has its own protection program. Between your policy, Airbnb, and VRBO, you have significant coverage stacked. We make sure all three are in place before launch."
+
+"What if my insurer cancels my policy when they find out I'm doing STR?"
+"That's a real risk with standard policies — which is exactly why you need to proactively switch before we start. We've seen this happen when owners didn't update their coverage. It's a straightforward fix: STR-specific policies exist and aren't significantly more expensive than standard home insurance. We guide you through this as part of onboarding."
+
+"Who handles an insurance claim if something goes wrong?"
+"We document the incident immediately — photos, timestamped, full report. We file the Airbnb Host Guarantee claim on your behalf. If it requires your personal insurance, we provide all documentation needed for your broker. You don't have to navigate this alone — we've done it before and we know the process."
+
+═══════════════════════════════
+SAFETY & COMPLIANCE QUESTIONS
+═══════════════════════════════
+
+"What safety equipment do I need in the property?"
+"City of Vancouver requires: interconnected smoke alarms on every floor and in every bedroom, a working fire extinguisher on each floor, carbon monoxide detectors if gas appliances are present, and a posted fire safety plan at all entrances and exits. We audit this as part of setup and make sure everything is in place before we apply for the license."
+
+"Do I need a fire safety inspection?"
+"Not a formal inspection — but you need to self-certify compliance with safety standards on the license application. We walk you through the checklist and make sure everything is documented. If something needs upgrading, we'll tell you exactly what and approximately what it costs."
+
+"What if there's a fire or emergency while guests are there?"
+"We have a 24/7 emergency line. Guests have our emergency contact, not yours. If a serious emergency occurs, we coordinate with emergency services and notify you immediately. Your personal number is never exposed to guests."
+
+"Do guests need to sign a waiver or anything?"
+"Airbnb and VRBO handle the guest agreement on their platforms. For direct bookings, we have a standard rental agreement that guests sign. It covers house rules, damage liability, and cancellation terms. You don't need to create this yourself — it's part of our standard onboarding."
+
+═══════════════════════════════
+GUEST QUALITY & PARTIES QUESTIONS
+═══════════════════════════════
+
+"How do you screen guests?"
+"We review guest profiles, booking history, reviews from previous hosts, and we verify ID through Airbnb/VRBO's verification system. We also use third-party screening tools for direct bookings. Any guest with no history, bad reviews, or a local address booking a one-night stay gets additional scrutiny or is declined. We decline more bookings than most operators — we'd rather have a night empty than a bad guest."
+
+"What if guests throw a party?"
+"Zero tolerance — immediate removal. Our house rules explicitly prohibit parties and events. Noise monitoring alerts us before it escalates. If a party is confirmed, we contact the guest, issue a warning, and if it continues, we initiate removal through Airbnb/VRBO. We've done this. It works. The guest loses their booking fee, not you."
+
+"Can you block certain types of guests?"
+"We can set minimum stay requirements, guest review minimums, and ID verification requirements. We can also decline instant bookings for certain profiles. Airbnb also has its own flags — guests under 25 without reviews booking local stays get flagged automatically. We layer our screening on top of the platform's."
+
+"What about bachelor/bachelorette parties?"
+"We actively decline them. If a booking comes through and we identify red flags — group of 20-somethings, one-night Friday stay, no reviews — we decline or require additional confirmation. Some operators accept them and deal with the fallout. We don't."
+
+"What if we get a bad review from a guest?"
+"We respond professionally and factually on your behalf. A single bad review doesn't significantly impact performance — pattern matters more than individual reviews. We also work to prevent bad reviews by resolving guest issues during the stay rather than after. If a review is factually false, we dispute it with Airbnb directly."
+
+═══════════════════════════════
+CLEANING & PROPERTY STANDARDS QUESTIONS
+═══════════════════════════════
+
+"Who does the cleaning?"
+"We work with professional STR cleaning crews who specialize in luxury properties — not standard domestic cleaners. They follow a detailed checklist for every turnover, including linen changes, restocking supplies, and a visual inspection of the property. Every checkout includes a condition report."
+
+"How often is the property cleaned?"
+"After every single guest checkout — no exceptions. For longer stays, we schedule a mid-stay clean for any booking over 7 nights. The property is never handed from one guest to the next without a full turnover."
+
+"What if the cleaning quality drops?"
+"We do quality control inspections and our PM reviews the post-turnover photos before the next guest checks in. If a cleaning crew's standards slip, we replace them. We have backup crews. A bad clean before check-in is not something a guest should ever experience."
+
+"Who pays for cleaning?"
+"Cleaning fees are charged to the guest on top of the nightly rate. That revenue covers the cleaning cost — it's not coming out of your 75%. We price cleaning fees at market rate for luxury properties so it covers the actual cost without deterring bookings."
+
+"What supplies does the property need?"
+"We provide a standard supply checklist during setup — premium toiletries, cleaning essentials, kitchen basics, linens at hotel quality (minimum 400 thread count). The initial stock is your cost as part of setup. Ongoing restocking is handled by our cleaning crew and charged as an operational expense."
+
+═══════════════════════════════
+PSYCHOLOGICAL CLOSING TECHNIQUES — TRAIN REPS
+═══════════════════════════════
+
+These are the underlying techniques behind the scripts. Reps should understand WHY each line works.
+
+LOSS AVERSION:
+"Every month the property sits without a strategy is a month you don't get back."
+WHY: People feel losses twice as intensely as gains. Framing inaction as loss is more powerful than framing action as gain.
+
+SCARCITY:
+"We're quite selective about which properties we work with."
+WHY: Inverts the dynamic. Owner starts wanting to qualify rather than being sold to.
+
+SOCIAL PROOF:
+"Every owner we work with said exactly the same thing before we started."
+WHY: Normalises the concern, then resolves it. Shows the owner they're not alone and others moved past the same blocker.
+
+AUTHORITY:
+"Let me give you the specific answer, not the generic one."
+WHY: Signals expertise. Differentiates from operators who give vague reassurances.
+
+AUTONOMY:
+"If the numbers don't work, you shouldn't use us."
+WHY: Taking pressure off paradoxically accelerates decisions. Owners trust advisors who tell them not to buy.
+
+CONTRAST PRINCIPLE:
+"Most owners are stuck in one of three bad situations..."
+WHY: Making all alternatives look worse before presenting your option. Luvilla becomes the obvious fourth choice.
+
+RECIPROCITY:
+"Let me pull a revenue projection for your property — no commitment needed."
+WHY: Giving value first creates an obligation to reciprocate. The owner feels they owe you a fair hearing.
+
+DIAGNOSTIC CLOSE:
+"Usually it comes down to economics, trust, or timing. Which one is it?"
+WHY: Forces the owner to name the real blocker, which the rep can then solve. Vague objections can't be addressed — specific ones can.
+
+AUTONOMY CLOSE:
+"If the terms match what we discussed — and they will — is there any reason we wouldn't move forward?"
+WHY: Forces the owner to either name a specific blocker or say yes. Eliminates vague drift.
+
+═══════════════════════════════
+SALES REP MINDSET — FUNDAMENTALS
+═══════════════════════════════
+
+This section is for coaching reps on how to think, not just what to say.
+The best script in the world fails in the hands of the wrong mindset.
+
+--- MINDSET 1: YOU ARE AN ADVISOR, NOT A SALESPERSON ---
+
+The moment you try to "sell" someone, they put up their guard.
+The moment you act like an advisor who is genuinely evaluating fit — they lean in.
+
+What this means in practice:
+- Ask more questions than you make statements in the first half of any call
+- Be willing to tell an owner the property isn't a good fit (rare, but powerful)
+- Never sound like you need this deal more than they do
+- Your job is to find out if there's a fit — not to close at all costs
+
+The rep who sounds like they need the deal loses.
+The rep who sounds like they're evaluating whether to take on the property wins.
+
+Test: After a call, ask yourself — "Did I talk more than they did in the first 10 minutes?" If yes, you pitched too early.
+
+--- MINDSET 2: REJECTION IS INFORMATION, NOT FAILURE ---
+
+Every "no" is a data point. It tells you:
+- What the real objection is
+- What information is missing
+- What the owner actually cares about
+- Whether this is the right lead at the right time
+
+Bad reps hear "no" and give up or chase softly.
+Good reps hear "no" and ask: "What specifically is the concern?"
+
+If you get rejected and you don't know why — that's the failure. Not the rejection itself.
+
+After every rejection, debrief yourself:
+- What did I know about their situation before the call?
+- What did I learn during the call?
+- What would I do differently?
+- Is this a dead lead or a timing issue?
+
+--- MINDSET 3: CONFIDENCE IS NON-NEGOTIABLE ---
+
+Luxury property owners can sense desperation within 30 seconds.
+These are people who have been pitched their entire lives. They know the difference between someone who needs the deal and someone who is genuinely selective.
+
+What confidence looks like:
+- Steady pace of speech — not rushing
+- Comfortable with silence after asking a question
+- Willing to push back when the owner says something that doesn't add up
+- Not over-explaining or justifying every point
+- Never apologizing for the fee
+
+What desperation looks like:
+- Talking too fast
+- Filling silence immediately
+- Offering discounts before they're asked
+- Over-thanking the owner for their time
+- Saying "I understand" every 30 seconds
+
+The fee is 25%. Say it like it's obvious. It is.
+
+--- MINDSET 4: YOU ARE SELECTIVE TOO ---
+
+Luvilla doesn't take every property. This is real — and it should feel real when you say it.
+
+Before every call, ask yourself: "Is this property actually a good fit?"
+If the answer is no — don't pitch. Tell the owner why it's not the right fit.
+If the answer is yes — pitch with conviction, because you genuinely believe in it.
+
+Reps who pitch everything come across as desperate.
+Reps who say "honestly, I'm not sure this is the right fit — let me ask you a few things first" come across as trusted advisors.
+
+The filter is your credibility.
+
+--- MINDSET 5: ACTIVITY BEATS PERFECTION ---
+
+The script is not the product. The call is the product.
+A rep who makes 20 imperfect calls will outperform a rep who makes 5 perfect ones.
+
+This matters because:
+- Every call teaches you something the script doesn't cover
+- Confidence builds through repetition, not preparation
+- The best objection handling comes from hearing objections, not reading about them
+
+Use this bot to practice — but don't use practice as a substitute for real calls.
+Practice sharpens you. Real calls build you.
+
+Target: Minimum 10 meaningful conversations per week. Not dials — conversations.
+
+--- MINDSET 6: DISCOVERY IS THE PITCH ---
+
+Most reps think the pitch is the most important part of the call.
+It isn't. Discovery is.
+
+When you ask the right questions and genuinely listen — two things happen:
+1. The owner feels heard and starts to trust you
+2. You learn exactly which part of the pitch to emphasise
+
+If they care about time — emphasise how hands-off it is.
+If they care about money — emphasise the income potential and ROI.
+If they care about their asset — emphasise guest screening and property care.
+
+The pitch that follows discovery is 10x more effective than a cold pitch.
+You're speaking directly to what they actually care about — not what you assume they care about.
+
+--- MINDSET 7: EVERY CONVERSATION HAS A NEXT STEP ---
+
+A conversation without a next step is a conversation that's going to die.
+
+Good next steps:
+- "I'll send the revenue projection by tomorrow morning."
+- "Let's put 30 minutes on the calendar Thursday."
+- "I'll make the owner reference introduction today."
+- "I'll follow up in 3 months when the timing is right."
+
+Bad next steps:
+- "I'll be in touch."
+- "Feel free to reach out if you have questions."
+- "Let me know what you think."
+- Nothing.
+
+Before you end every single call — confirm what happens next, who does it, and when.
+If you can't answer those three questions, the call isn't over yet.
+
+--- MINDSET 8: THE PHONE IS YOUR EDGE ---
+
+Most people default to email. Email is easy. Email also buries itself in an inbox.
+
+A phone call is:
+- 10x harder to ignore than an email
+- 10x more informative (tone, hesitation, enthusiasm)
+- 10x more relationship-building
+
+Use email to confirm and document. Use the phone to discover and close.
+
+If you've emailed twice and heard nothing — call. Not another email.
+If you're about to send a follow-up email — ask yourself: "Would a phone call move this faster?" Usually yes.
+
+--- MINDSET 9: HANDLE REJECTION BEFORE IT HAPPENS ---
+
+The best time to handle an objection is before it's raised.
+
+Examples:
+- "I know 25% sounds high at first — let me show you why the net payout typically exceeds what you'd get at 18% elsewhere."
+- "Most owners are nervous about strangers in the property initially — here's how we address that."
+- "You're probably wondering whether this is legal in Vancouver — let me explain how it works."
+
+When you address objections proactively, two things happen:
+1. You don't look defensive when they come up
+2. The owner feels you understand their concerns before they have to voice them
+
+This builds trust faster than any other technique.
+
+--- MINDSET 10: LUXURY OWNERS ARE DIFFERENT ---
+
+They have been pitched their entire lives.
+They can smell a commission-motivated salesperson from across the room.
+They make decisions based on trust and evidence — not urgency or pressure.
+
+What works with luxury owners:
+- Patience — don't rush the relationship
+- Specificity — not "we do great work" but "here are the exact numbers"
+- Restraint — don't over-explain, don't over-pitch
+- Deference — they know their asset, respect that
+- Evidence — references, data, documentation
+
+What doesn't work:
+- Artificial urgency ("we only have one spot left")
+- Excessive flattery
+- Overselling performance ("you'll definitely hit $50K/month")
+- Casual tone that doesn't match the asset
+- Pushing for a decision before they're ready
+
+For the 40s+ Chinese female owner specifically:
+- Family asset mindset — treat this property as generational wealth, not just income
+- Face matters — never make them feel they made a mistake or were naive
+- Trust is slow — multiple touchpoints are normal, not failure
+- Data over emotion — specific numbers always beat vague reassurances
+- Consensus — they may want to consult family before deciding. Facilitate it, don't fight it.
+
+--- MINDSET 11: YOUR REPUTATION IS YOUR PIPELINE ---
+
+In Vancouver's luxury property owner community — people talk.
+One owner who had a great experience will tell three others.
+One owner who had a bad experience will tell ten.
+
+This means:
+- Every promise you make is a debt you owe
+- Never overpromise to close a deal you'll underdeliver on
+- The owner you do right by is your best future sales call
+- Closing a bad-fit deal is worse than losing it
+
+Long term, your personal reputation as a rep — not Luvilla's brand — is your biggest asset.
+Own it.
+
+═══════════════════════════════
 THINGS REPS MUST NEVER SAY
 ═══════════════════════════════
 
