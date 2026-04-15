@@ -41,32 +41,45 @@ Psychology: Asset protection is #1 priority. Numbers and evidence over emotion. 
 What works: Authority, specificity, social proof, patience. Sound like an advisor, not a salesperson.
 What doesn't work: Fast pitch, vague promises, casual tone, "Airbnb bro" energy.
 
-30-SECOND CORE PITCH (psychology: Loss Aversion + Contrast + Scarcity):
+30-SECOND CORE PITCH (psychology: Loss Aversion + Contrast + Scarcity + Anchoring):
 "Most owners with properties like yours are in one of three situations — and none of them are great.
 One: long-term rental. Simple, but you've already accepted a ceiling on what it earns.
 Two: self-managing. Which means your weekends and your energy are subsidizing the property.
 Three: one platform. Completely exposed to seasonality and whatever algorithm changes they make next month.
-What we do is different. We run a hybrid strategy — corporate relocation, mid-term stays, Airbnb, VRBO, and direct booking — designed for your specific property. Owner keeps 75%. We take 25% and own the execution completely. We're selective about which properties we take on. I'm not asking you to decide anything today — I want to show you what the numbers look like for your specific property. That's it."
+What we do is different. We run a hybrid strategy — corporate relocation, mid-term stays, Airbnb, VRBO, and direct booking — designed for your specific property. Our standard partnership structure is 70/30 — though depending on the property and scope, there's flexibility. We're selective about which properties we take on. I'm not asking you to decide anything today — I want to show you what the numbers look like for your specific property. That's it."
 
 ═══════════════════════════════
-THE DEAL — ONE MODEL ONLY
+THE DEAL — FEE STRUCTURE & ANCHORING STRATEGY
 ═══════════════════════════════
 
 Revenue-share management agreement:
-- Luvilla fee: 25% of gross booking revenue (range 20–25%)
-- Owner keeps: 75%
+- Standard fee: 30% of gross booking revenue (this is the anchor — always open here)
+- Negotiable range: 25–30% depending on property quality, size, and scope
 - Owner covers: furnishing and setup (CA$40,000–$80,000 typically)
 - Setup ROI: under 3 months based on current portfolio
 
-Luvilla is a management company. Not an investment company.
-We do not fund setup. We do not guarantee rent. We do not offer fixed rent unless founder (Daniel) explicitly approves after repeated owner hesitation.
+ANCHORING STRATEGY — CRITICAL:
+Always open at 30%. Never open at 25%.
 
-Hard rules — never break these:
-- Never open with or casually promise fixed/guaranteed rent
-- Never promise guaranteed occupancy or income
-- Never quote below 20% without founder approval
-- Never offer Luvilla investment in setup
-- If owner asks Luvilla to fund setup → "We're a management company, not an investment company. The owner invests in the asset, we invest in the execution."
+Why: If you open at 25% and owner negotiates, you end up at 20% or lower.
+If you open at 30% and owner negotiates, you end up at 25% — which is where you wanted to be.
+The owner feels they won a concession. You hit your target. Everyone's happy.
+
+HOW TO PRESENT THE FEE:
+"Our standard partnership structure is 70/30. Of course, depending on the property quality, location, and scope — there's some flexibility on that."
+
+If owner pushes back on 30%:
+"I hear you. Given the strength of this property specifically, I can look at bringing that to 75/25 as a special structure. That's not something I offer on every property — but for the right fit, it makes sense."
+
+Never say "we'll do 25%" casually. Make it feel like a concession they earned.
+
+ESCALATE TO FOUNDER (Daniel) when:
+- Owner wants below 25%
+- Owner wants fixed/guaranteed rent
+- Owner wants Luvilla to fund setup
+- Deal is unusually large or strategic
+
+Escalation line: "That may be worth reviewing, but it's not something I want to commit to casually. Let me take that back internally so we can respond properly."
 
 Fixed-rent exception (rare):
 Only after: owner has repeatedly rejected revenue-share, certainty is the clear blocker, property is premium/exceptional, AND founder has reviewed.
@@ -777,12 +790,17 @@ OBJECTION HANDLING — PSYCHOLOGY-BASED (Owner)
 
 Diagnostic line: "Usually when someone says that, it comes down to economics, trust, or timing. Which one is really the main concern on your side?"
 
-1. "25% is too high" (Psychology: Reframe + Contrast + Loss Aversion)
+1. "30% is too high / the fee is too high" (Psychology: Anchoring + Reframe + Concession)
 STEP 1 — Pause. Don't react immediately.
 "I hear you. Can I ask what you're comparing it to?"
-[If self-managing] → "So at 0% fee, what does your time cost you? If you spend 10 hours a month and value your time at $200/hour, that's $2,000/month you're spending that doesn't show up on any spreadsheet. Our 25% typically comes to $5,000–$8,000 on your property. That's the actual comparison."
-[If another company] → "If they're at 18%, I'd ask: what exactly is included? Fee percentage means nothing without scope. The net payout to our owners is typically higher than what owners get elsewhere on 18% — because the performance gap more than covers the fee difference. Let me show you a side-by-side projection."
-[If just feels expensive] → "Completely fair reaction. The fee is only expensive if performance doesn't justify it. That's exactly why I want to show you the projection first. If the numbers don't work, you shouldn't use us. If they do, 25% is cheap for what you're getting."
+[If self-managing] → "So at 0% fee, what does your time cost you? If you spend 10 hours a month and value your time at $200/hour, that's $2,000/month you're spending that doesn't show up on any spreadsheet. Our fee on your property would be $8,000–$12,000. That's the actual comparison — and we deliver far better performance."
+[If another company] → "If they're at a lower rate, I'd ask: what exactly is included? Fee percentage means nothing without scope. The net payout to our owners typically exceeds what owners get elsewhere at lower rates — because the performance gap more than covers the fee difference."
+[If just feels expensive] → "Completely fair reaction. The fee is only expensive if performance doesn't justify it. That's exactly why I want to show you the projection for your specific property first."
+
+CONCESSION PLAY — use when owner pushes back on 30%:
+"I hear you. Given the strength of this property — the location, the size, the potential — I can look at structuring this at 75/25 instead. That's not something I offer on every property, but for the right fit it makes sense. Let me confirm that internally."
+
+WHY THIS WORKS: Owner feels they earned a concession. You land at 25% — which was the target. Never give 25% without making it feel like a special structure they negotiated for.
 
 2. "I'd rather do fixed rent" (Psychology: Hold position + Autonomy)
 "I understand why certainty is attractive. Our standard is revenue-share because it keeps incentives aligned and usually gives owners more upside. In rare cases, if the property is truly exceptional, we can ask founder to review a fixed-rent structure — but I cannot quote that directly today."
@@ -826,8 +844,9 @@ STEP 1 — Pause. Don't react immediately.
 15. "What if performance is weak?" (Psychology: Alignment)
 "That's exactly why alignment matters. Under our model, we don't earn unless you earn. The structure doesn't reward weak operating behavior — it punishes it."
 
-16. "I want a lower percentage" (Psychology: Reframe before discussing rate)
-"Before we talk about changing economics, let's make sure we're aligned on scope, property fit, and what success looks like. Most percentage objections are really scope or confidence objections. Which one is it on your side?"
+16. "I want a lower percentage" (Psychology: Concession Play)
+"I hear you. Given what I've seen of this property — the location, the size, the potential — I can look at bringing the structure to 75/25 as a special arrangement. That's not something I offer on every property, but for the right fit it makes sense. Let me confirm that internally."
+RULE: This is the concession. 75/25 is where you wanted to land all along. Never go below 25% without Daniel's approval.
 
 17. "I just want a guarantee" (Psychology: Honesty + Escalation path)
 "I understand the desire for certainty. We don't make guarantees — anyone who does is not being straight with you. Our 20 Vancouver properties average 75–80% occupancy. If certainty remains the only real blocker and the property is exceptional enough, that's when founder review for a different structure makes sense."
@@ -897,12 +916,14 @@ Agent: "That's meaningful."
 Rep: "Right — and just as important, we move quickly and protect your relationship. The economics only matter if the process is solid enough that you want to refer again."
 WHY IT WORKED: Answered economics directly but framed it around trust, process, and repeat business.
 
---- WIN-03: Owner objects to 25% and rep reframes without discounting ---
-Owner: "25% feels high. What do I actually get for that?"
+--- WIN-03: Owner objects to 30% and rep reframes without discounting ---
+Owner: "30% feels high. What do I actually get for that?"
 Rep: "Before we move straight to fee, let me make sure we're solving the right problem. Most fee objections are actually scope or confidence objections. Which one is it on your side?"
 Owner: "I guess I'm not sure what you actually do versus just listing on Airbnb."
 Rep: "That's the right question. We're not listing support. We're active management — positioning, pricing, channel optimization, guest screening, maintenance coordination, and reporting. Our fee is only earned if the property performs."
-WHY IT WORKED: Rep diagnosed before defending. Reframed fee as performance-tied.
+Owner: "Okay but 30% still feels like a lot."
+Rep: "Given the strength of this property, I can look at structuring this at 75/25 — that's not something I offer on every property but for the right fit it makes sense. Let me confirm that internally."
+WHY IT WORKED: Rep diagnosed before defending. Offered 25% as a earned concession, not the opening price.
 
 --- WIN-04: Owner wants fixed rent and rep holds revenue-share ---
 Owner: "I'd prefer a fixed rent structure."
@@ -925,10 +946,10 @@ Owner: "So you don't actually know? I'll wait to hear back from you."
 WHY IT FAILED: Leading with fixed rent signals desperation. Owner took control and deal stalled.
 
 --- LOSS-02: Rep caves on fee immediately ---
-Owner: "25% feels high."
+Owner: "30% feels high."
 Rep: "We can be flexible on that. Maybe 18 or 20%."
 Owner: "Let me think about it."
-WHY IT FAILED: Discounting without diagnosing. Now fee is the issue when it wasn't before.
+WHY IT FAILED: Skipped the concession play entirely. Should have held 30%, then offered 75/25 as a special structure. Instead discounted to 20% without making the owner earn it — now fee is the issue and rep has nothing left to give.
 
 --- LOSS-03: Rep volunteers agent trail too early ---
 Rep: "We pay agents 15% every month for every referral they send."
@@ -1005,26 +1026,26 @@ STRONG: "I don't want this drifting without clarity. From your side, is the real
 FEE NEGOTIATION SCENARIOS
 ═══════════════════════════════
 
-RULE: Never discount without diagnosing. Never move on fee before understanding why.
+CORE PRINCIPLE: Always open at 30%. Never open at 25%.
+The anchor is 30%. The target is 25%. 25% should always feel like a concession the owner earned — never the starting point.
 
-SCENARIO A — "22% 하면 할게요" / "If you do 22%, I'll sign"
-Rep: "I appreciate you being direct. Before I respond to that — can I ask what's driving the 22%? Is it that the 25% feels disproportionate to what we deliver, or is it more of a negotiating position?"
-[If scope concern] → "Then let me make sure the scope is crystal clear first. If after that the 25% still doesn't feel right, we can have a different conversation."
-[If just negotiating] → "I hear you. Our standard is 25% and I'm not in a position to move on that today. What I can do is show you why the net payout at 25% is higher than what you'd get elsewhere at 20%. Let me pull that comparison."
-RULE: Never move to 22% without founder approval. Hold the line with confidence, not apology.
+Standard pitch: "Our partnership structure is typically 70/30. Depending on the property, location, and scope — there's flexibility."
 
-SCENARIO B — "20%면 사인할게요" / "I'll sign at 20%"
-Rep: "I want to close this — and I want to do it right. 20% isn't something I can commit to without taking it back internally. What I can tell you is: if the property is as strong as I think it is, and if the numbers justify it, I'll come back to you with a clear answer within 24 hours. Is that fair?"
-[Take to Daniel. Daniel decides. Rep never quotes exceptions casually.]
-RULE: This is a founder escalation. Do not cave on the call. Create a 24-hour window.
+SCENARIO A — "Can you do 25%?" / "25% 하면 할게요"
+Rep: "I appreciate you being direct. Given the strength of this property specifically — the location, the size, the potential — I can look at structuring this at 75/25 as a special arrangement. That's not something I offer on every property, but for the right fit it makes sense. Let me confirm that internally and come back to you."
+WHY: Owner feels they negotiated a win. You hit your target. Never give 25% without making it feel earned.
 
-SCENARIO C — "다른 회사는 18%래요" / "Another company quoted 18%"
-Rep: "I believe you. And I'd ask one question: what exactly is included at 18%? Because fee percentage is meaningless without scope. If they're doing active pricing, channel mix management, corporate relocation outreach, direct booking development, and full maintenance coordination — then 18% is genuinely cheaper and you should consider it. If they're listing on Airbnb and hoping for the best, then 18% is expensive for what you actually get. Let me show you the scope comparison side by side."
-RULE: Never match 18%. Make them compare apples to apples. Performance gap covers the fee gap.
+SCENARIO B — "22% 하면 사인할게요" / "I'll sign at 22%"
+Rep: "I hear you. 22% isn't something I can commit to without taking this back internally. Our standard is 70/30, and even moving to 75/25 is something I needed to confirm. Going further than that needs a different conversation internally. What I can do is take this back today and give you a clear answer within 24 hours."
+RULE: Founder escalation. Do not cave on the call. Create a 24-hour window.
 
-SCENARIO D — Owner pushes repeatedly, won't move
-Rep: "I've heard you on the fee and I want to be straight with you. Our model is 25% because that's what allows us to run the operation properly — active pricing, channel management, guest screening, PM oversight, the whole thing. If we were at 18%, we'd have to cut something. And the cut always shows up in performance. I'd rather you use a company that fits your budget than one that overpromises and underdelivers. If 25% genuinely doesn't work for you, I respect that — but I won't pretend we can do the same job for less."
-WHY: Confidence without desperation. Makes owner respect the position.
+SCENARIO C — "다른 회사는 더 싸래요" / "Another company quoted less"
+Rep: "I believe you. And I'd ask one question: what exactly is included at that rate? Fee percentage is meaningless without scope. If they're doing active pricing, channel mix, corporate relocation outreach, direct booking development, and full PM oversight — then lower is genuinely cheaper. If they're listing on Airbnb and hoping for the best — that rate is expensive for what you get. Let me show you the scope comparison."
+RULE: Never match. Make them compare apples to apples.
+
+SCENARIO D — Owner keeps pushing, won't move
+Rep: "I've heard you on the fee and I want to be straight with you. Our standard structure is 70/30 because that's what allows us to run the operation properly. I've already offered to look at 75/25 as a special structure for this property. Going further than that isn't something I can do without it going through our founder — and I won't pretend otherwise. I'd rather you use a company that fits your budget than one that overpromises and underdelivers."
+WHY: Confidence without desperation. 25% is already the concession. Below that is founder territory.
 
 ═══════════════════════════════
 CONTRACT & TERMS QUESTIONS
@@ -1449,7 +1470,7 @@ What desperation looks like:
 - Over-thanking the owner for their time
 - Saying "I understand" every 30 seconds
 
-The fee is 25%. Say it like it's obvious. It is.
+The fee is 30%. Say it like it's obvious. It is. If they push back, 75/25 is the concession — not the opening.
 
 --- MINDSET 4: YOU ARE SELECTIVE TOO ---
 
@@ -1533,7 +1554,7 @@ If you're about to send a follow-up email — ask yourself: "Would a phone call 
 The best time to handle an objection is before it's raised.
 
 Examples:
-- "I know 25% sounds high at first — let me show you why the net payout typically exceeds what you'd get at 18% elsewhere."
+- "I know 30% sounds high at first — let me show you why the net payout typically exceeds what you'd get at a lower rate elsewhere."
 - "Most owners are nervous about strangers in the property initially — here's how we address that."
 - "You're probably wondering whether this is legal in Vancouver — let me explain how it works."
 
@@ -1612,15 +1633,16 @@ Owner: "Yeah, Thursday works."
 WHY IT WORKED: Rep named the elephant directly instead of soft-chasing. Pulled in the missing decision-maker before sending a proposal into a black hole.
 COACH NOTE: When an owner stalls 2+ times, don't send more info. Ask the direct question. Then solve for the actual blocker, not the stated one.
 
---- WIN-12: 25% fee objection handled without discounting — deal closed at full rate ---
-Owner: "Look, I've spoken to two other companies. One quoted 18%, one quoted 20%. You're at 25%. That's significantly more."
+--- WIN-12: 30% fee anchor → concession play → closed at 25% ---
+Owner: "Look, I've spoken to two other companies. One quoted 18%, one quoted 20%. You're at 30%. That's significantly more."
 Rep: "I appreciate you being straight with me. Can I ask — when they quoted 18% and 20%, did they walk you through what they actually manage? Pricing, guest screening, channel mix, direct booking, maintenance coordination, reporting?"
 Owner: "Not really. It was more of a quick pitch."
-Rep: "That's the issue. A lower fee that covers less scope ends up costing you more in performance. Our 25% includes active channel management — we don't just list on Airbnb and hope. For comparable properties we manage, the net payout to the owner is higher than what owners get elsewhere on 18%, because the performance difference more than covers the fee gap. Let me show you a projection side by side."
-Owner: "Okay, show me the numbers."
-[Rep sent projection. Owner signed at 25% the following week.]
-WHY IT WORKED: Rep never defended the fee. He reframed the comparison. Made the owner realize he was comparing prices not value.
-COACH NOTE: When owner compares fees, never match or discount first. Make them compare scope and performance, not percentages.
+Rep: "That's the issue. A lower fee that covers less scope ends up costing you more in performance. The net payout to our owners is typically higher than what they'd get elsewhere at 18%, because the performance gap more than covers the fee difference."
+Owner: "I still think 30% is high for us."
+Rep: "I hear you. Given the strength of this property, I can look at structuring this at 75/25 — that's not something I offer on every property, but for the right fit it makes sense. Let me confirm that internally."
+[Confirmed with Daniel. Owner signed at 25% — felt like they negotiated it.]
+WHY IT WORKED: Opened at 30%. Made 25% feel like a hard-won concession. Owner felt they won the negotiation. Rep hit target.
+COACH NOTE: Never open at 25%. Always open at 30% so 25% has somewhere to come from.
 
 --- WIN-13: Agent intro converted to signed agreement in 8 days ---
 Agent introduced owner of a 5-bed West Van home. Rep responded same day.
