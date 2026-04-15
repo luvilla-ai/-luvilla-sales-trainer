@@ -35,8 +35,18 @@ Luvilla is a revenue-share operating partner that designs the income strategy fo
 
 One-liner: "We're not a property manager. We're the team that designs how your asset earns money."
 
-30-second opening pitch:
-"Most owners are stuck between three bad options: long-term rental locks in low upside, self-managing is time and stress, and putting it on one platform means you're exposed to seasonality and algorithm changes. Luvilla combines corporate relocation, mid-term stays, Airbnb, VRBO, and direct booking to reduce vacancy and make your payout more consistent. You keep the asset and the upside — we own the execution."
+TARGET OWNER PROFILE:
+Primary target: 40s+ Chinese female property owners, Vancouver luxury $8M–$20M
+Psychology: Asset protection is #1 priority. Numbers and evidence over emotion. Trust builds slowly. Face/reputation matters. Risk-averse. Family asset mindset.
+What works: Authority, specificity, social proof, patience. Sound like an advisor, not a salesperson.
+What doesn't work: Fast pitch, vague promises, casual tone, "Airbnb bro" energy.
+
+30-SECOND CORE PITCH (psychology: Loss Aversion + Contrast + Scarcity):
+"Most owners with properties like yours are in one of three situations — and none of them are great.
+One: long-term rental. Simple, but you've already accepted a ceiling on what it earns.
+Two: self-managing. Which means your weekends and your energy are subsidizing the property.
+Three: one platform. Completely exposed to seasonality and whatever algorithm changes they make next month.
+What we do is different. We run a hybrid strategy — corporate relocation, mid-term stays, Airbnb, VRBO, and direct booking — designed for your specific property. Owner keeps 75%. We take 25% and own the execution completely. We're selective about which properties we take on. I'm not asking you to decide anything today — I want to show you what the numbers look like for your specific property. That's it."
 
 ═══════════════════════════════
 THE DEAL — ONE MODEL ONLY
@@ -159,27 +169,28 @@ Agent partner structure:
 
 Example: Owner gross $20,000 → Luvilla fee (25%) = $5,000 → Agent trail (15%) = $750/month
 
+AGENT PITCH (Psychology: Reciprocity + Social Proof + Scarcity):
+
+Opening:
+"The way I see it — you already have the relationship with the owner. You already have their trust. All we're asking is to borrow that trust for one introduction, and we'll earn the rest ourselves. We move fast, communicate clearly, and protect your relationship throughout. Our job is to make you look like you gave them a great referral."
+
+When agent asks "What's in it for me?" (Psychology: Explain clearly, not desperately):
+"We have a structured partner program for approved referred accounts.
+In plain numbers: if you introduce an owner, the property goes live, and we start managing — you receive 15% of Luvilla's collected management fees every month for as long as that management agreement stays active.
+On a property generating $20,000 gross, our fee is $5,000. Your trail is $750 a month, ongoing, without doing anything after the introduction.
+That's not the main reason to work with us — the main reason is that we close properly and protect your relationship. But yes, the economics are real and they're structured."
+
+Agent trust language:
+- "If the relationship comes through you, we treat that seriously."
+- "We want to make you look good, not make things harder."
+- "Our role is to operate well and help the owner — not create confusion around your relationship."
+
 What agents care about:
 - Will you make me look good?
 - Will you move fast?
 - Will you take over my relationship?
 - Can you handle premium properties?
 - Can you close?
-- What's in it for me?
-
-Agent pitch order:
-1. We move fast and close cleanly
-2. We protect your relationship with the owner
-3. We make you look good
-4. We have a structured partner program
-5. For the right referred account, there's a monthly trail
-
-Agent trust language:
-- "If the relationship comes through you, we treat that seriously."
-- "We want to make you look good, not make things harder."
-- "Our role is to operate well and help the owner, not create confusion around your relationship."
-
-Never open with "we pay 15%." Build trust first.
 
 Agent discovery questions:
 - "What kinds of owners are you seeing most often right now?"
@@ -187,7 +198,7 @@ Agent discovery questions:
 - "What usually causes owners to hesitate?"
 - "If we move fast and keep your relationship protected, who comes to mind right away?"
 
-Agent repeat referral ask:
+Agent repeat referral ask (Psychology: Reciprocity + Social Proof):
 "If this first owner goes well, I'd rather build a repeat relationship than treat it as a one-off. Who else comes to mind if we prove ourselves here?"
 
 TRACK B — OWNER
@@ -202,12 +213,16 @@ Owner pitch order:
 6. Handle objections
 7. Ask for a real next step
 
-Owner discovery questions:
-- "What's the current setup with the property right now?"
-- "What's not working as well as you'd like?"
-- "Are you mainly solving for time, performance, or predictability?"
-- "Who else needs to be comfortable before anything moves forward?"
-- "If we were talking 90 days from now and you felt great — what would have changed?"
+Owner discovery questions (Psychology: Autonomy + Reciprocity — listen before pitching):
+RULE: Max 2 questions before saying anything about Luvilla. Listen for TIME, MONEY, or RISK motivation.
+- "What's the current setup with the property right now?" [Let them talk. Don't interrupt.]
+- "What's not working as well as you'd want?" [Uncovers real pain.]
+- "When you think about the ideal outcome — what does that actually look like for you?" [Matches their internal picture.]
+- "Is there anyone else involved in decisions about the property — a partner, family member?" [Find hidden decision-maker EARLY.]
+- "Have you looked at other management options before? What made them not feel right?" [Reveals their criteria.]
+
+BRIDGE LINE after discovery (Psychology: Reciprocity + Authority):
+"Based on what you've shared, I think there's a real fit here. Let me pull a revenue projection for your specific property — takes me a day — and then we can look at real numbers together rather than estimates. Does that make sense?"
 
 ═══════════════════════════════
 OWNER TYPES
@@ -239,21 +254,32 @@ Approach: Find the real blocker. Ask directly.
 Key line: "Usually it comes down to economics, trust, or timing. Which one is really the main concern on your side?"
 
 ═══════════════════════════════
-COLD CALL SCRIPTS
+COLD CALL SCRIPTS — PSYCHOLOGY-BASED
 ═══════════════════════════════
 
-OWNER COLD CALL:
-"Hi, is this [Name]? This is [Rep] from Luvilla — quick question, is your property on [Street] currently generating income for you?"
-[Wait]
-"Got it. We manage luxury furnished rentals in Vancouver — full management, you keep 75%, we handle everything. Worth 2 minutes?"
+OWNER COLD CALL (Psychology: Authority + Scarcity + Loss Aversion):
 
-If "not interested": "Completely fine. Is it the timing, or is this genuinely not a fit right now?"
-If "how did you get my number": "We research properties in Vancouver that could be strong fits. Yours came up. I'll keep it short."
+VERSION A — Property specific:
+"Hi, is this [Name]? This is [Rep] from Luvilla.
+I'll be upfront — I'm calling because we looked at your property on [Street] and honestly, it's the kind of home we're quite selective about working with. One quick question — is the property currently generating income for you, or is it sitting?"
+[If sitting] → "That's what I thought. Do you have 3 minutes? I think there's a conversation worth having."
+[If rented] → "Good to know. Is the setup giving you the return you actually want, or is it more of a 'works for now' situation?"
 
-AGENT COLD CALL:
-"Hi [Name], this is [Rep] from Luvilla. Quick one — do you ever come across owners in Vancouver who aren't sure what to do with a property that's sitting empty or underperforming?"
-[Wait]
-"That's exactly who we help. We manage luxury furnished rentals, close cleanly, and protect the agent relationship throughout. Worth a 10-minute call this week?"
+WHY: "We're selective" = Scarcity. "Is it sitting?" = Loss Aversion. Sounds purposeful, not scripted.
+
+VERSION B — Warm intro / referral:
+"Hi [Name], this is [Rep] from Luvilla. [Agent] suggested I reach out — she mentioned you've been thinking about what to do with the property on [Street]. One quick question before anything else — what's been stopping you from making a move on it so far?"
+
+WHY: Social Proof from trusted agent. Open question reveals the real blocker immediately. No pitch yet.
+
+AGENT COLD CALL (Psychology: Reciprocity + Scarcity + Low-risk ask):
+"Hi [Name], this is [Rep] from Luvilla — I'll keep it to 60 seconds.
+We manage luxury furnished rentals in Vancouver and I'm building relationships with a small group of agents who occasionally have clients that don't know what to do with a property sitting empty or underperforming.
+I'm not asking you to refer everyone. Just one question: do you have one owner right now where the property situation isn't fully resolved?"
+[If yes] → "That's exactly who we help. Tell me about the situation."
+[If no] → "Fair enough. If that changes — and it usually does — I'd rather you know what we do before you need us. Worth 5 minutes sometime this week?"
+
+WHY: "Small group of agents" = Scarcity. "One owner" = low-risk ask. "60 seconds" = confidence.
 
 ═══════════════════════════════
 EMAIL TEMPLATES
@@ -304,70 +330,74 @@ AGENT MEETING (20 min):
 6. Ask for the next owner introduction (3 min)
 
 ═══════════════════════════════
-OBJECTION HANDLING — OWNER (20 objections)
+OBJECTION HANDLING — PSYCHOLOGY-BASED (Owner)
 ═══════════════════════════════
 
 Diagnostic line: "Usually when someone says that, it comes down to economics, trust, or timing. Which one is really the main concern on your side?"
 
-1. "25% is too high"
-"Before we move to changing economics, let's make sure we're talking about the real issue. Most fee objections are actually scope, confidence, or fit objections. Which one is it on your side?"
+1. "25% is too high" (Psychology: Reframe + Contrast + Loss Aversion)
+STEP 1 — Pause. Don't react immediately.
+"I hear you. Can I ask what you're comparing it to?"
+[If self-managing] → "So at 0% fee, what does your time cost you? If you spend 10 hours a month and value your time at $200/hour, that's $2,000/month you're spending that doesn't show up on any spreadsheet. Our 25% typically comes to $5,000–$8,000 on your property. That's the actual comparison."
+[If another company] → "If they're at 18%, I'd ask: what exactly is included? Fee percentage means nothing without scope. The net payout to our owners is typically higher than what owners get elsewhere on 18% — because the performance gap more than covers the fee difference. Let me show you a side-by-side projection."
+[If just feels expensive] → "Completely fair reaction. The fee is only expensive if performance doesn't justify it. That's exactly why I want to show you the projection first. If the numbers don't work, you shouldn't use us. If they do, 25% is cheap for what you're getting."
 
-2. "I'd rather do fixed rent"
-"I understand why certainty is attractive. Our standard structure is revenue-share because it keeps incentives aligned. In rare cases, if the property is truly exceptional, we can ask founder to review a fixed-rent structure. I cannot quote that directly today."
+2. "I'd rather do fixed rent" (Psychology: Hold position + Autonomy)
+"I understand why certainty is attractive. Our standard is revenue-share because it keeps incentives aligned and usually gives owners more upside. In rare cases, if the property is truly exceptional, we can ask founder to review a fixed-rent structure — but I cannot quote that directly today."
 
-3. "I can manage it myself"
-"You probably can. The better question is whether you want to. If you're happy carrying the time, inconsistency, guest issues, pricing responsibility, and day-to-day management yourself — that's one path. If you want stronger execution with less burden, that's where we come in."
+3. "I can manage it myself" (Psychology: Loss Aversion — time cost)
+"You probably can. The better question is whether you want to. If you're happy spending your weekends and mental energy subsidizing the property — that's one path. If you want the same hands-off simplicity with better execution and more income, that's where we come in."
 
-4. "Send me information"
-"Absolutely. Just so I send the right thing — are you mainly evaluating fee, fit, or whether the model makes sense for this property? If I know that, I can send something useful rather than generic."
+4. "Send me information" (Psychology: Reciprocity + Purpose)
+"Absolutely. Just so I send the right thing — are you mainly evaluating fee, fit, or whether the model makes sense for this property? That way I send something useful rather than generic."
 
-5. "I need to think about it"
-"Of course. Usually when someone says that, the real question is around economics, trust, or timing. Which one is the real issue on your side right now?"
+5. "I need to think about it" (Psychology: Diagnostic + Autonomy)
+"Of course. Before you do — usually when someone says that, it's one of three things: the economics don't feel certain enough, there's a trust question about us, or the timing genuinely isn't right. Which one is it for you? I'm asking because if it's the economics, I can build a projection for your property today that gives you real numbers — not estimates."
 
-6. "My spouse/partner needs to be involved"
-"That makes sense. The easiest move is to get everyone on one short call so we can cover the model, fit, and structure clearly in one conversation."
+6. "My husband/wife needs to be involved" (Psychology: Include, don't bypass)
+"Absolutely — that's the right way to make this decision. The most efficient thing is a short call with both of you together — 20 minutes. I'll bring the revenue projection and walk through it once, clearly. Much better than you relaying it second-hand and them having questions I'm not there to answer. Would Thursday evening work for both of you?"
 
-7. "I already have a manager"
-"Understood. I'm not asking you to switch blindly. The real question is whether the current setup is actually giving you what you want. If it is, great. If not, we can compare structure, responsiveness, execution, and reporting directly."
+7. "I already have a manager" (Psychology: Curiosity not competition)
+"Good to know. Can I ask — is it working the way you actually want it to? Because if it is, you probably shouldn't change. But if you're taking this call, there's usually something about the current setup that isn't quite right. What is it?"
 
-8. "I'm not ready right now"
-"That's fair. Is the hesitation mainly timing, or is there still a fit question? If timing is the real issue, we can define a cleaner follow-up point instead of drifting."
+8. "I don't want strangers in my home" (Psychology: Empathy + Social Proof + Reframe)
+"That's the most important thing you've said, and I want to address it directly. Every owner we work with said exactly the same thing before we started. What they found — and I can connect you with them directly — is that the concern fades by month two. Every guest is pre-screened, house rules enforced, full photo inspection after every checkout. The property ends up in better condition than if it sat empty. The property sitting empty isn't protection. It's just a different kind of risk."
 
-9. "I want more certainty"
-"Most owners want more control and less guesswork. Our standard model is revenue-share because it aligns incentives. If certainty keeps being the blocker and the property is strong enough, we can review whether founder wants to look at a different structure later."
+9. "What if my property gets damaged?" (Psychology: Authority + Specificity)
+"Let me give you the specific answer, not the generic one. Every property carries $2M liability insurance. Airbnb's Host Guarantee adds $3M USD on top. After every checkout, our PM does a documented inspection with timestamped photos. If something is off, we flag it immediately — not at month end. 20 properties in Vancouver, zero major damage claims. I can connect you with any of our current owners."
 
-10. "What exactly do you handle?"
-"We handle the active management side — positioning, pricing, day-to-day operations, communication, coordination, issue handling, and ongoing optimization. The point is to take the operating burden off you while improving execution."
+10. "Is this legal in Vancouver?" (Psychology: Authority + Flip the risk)
+"Good that you're asking — a lot of operators don't, and that's the problem. Since you're not paying the empty home tax, you're registered as your principal residence — eligible for a Vancouver STR license at $1,060/year. We guide the entire process. Non-compliant operators get fined up to $3,000/day. The risk isn't in doing it properly. The risk is working with someone who doesn't know the regulations."
 
-11. "Why pay a percentage instead of just finding a tenant?"
-"That depends on what outcome you want. If you want the simplest long-term tenant placement, that's one path. If you want active optimization, flexible use, and stronger execution, then the percentage model makes sense."
+11. "What if regulations change?" (Psychology: Authority + Flexibility)
+"That's why we don't rely on one channel or one stay type. If regulations shift, we adjust the channel mix and stay length strategy. We're not a one-trick operator."
 
-12. "Another company is cheaper"
-"That may be true. Price alone isn't the real comparison. Scope, execution, responsiveness, quality of management, and fit for your property — that's the real comparison."
+12. "Long-term rental feels safer" (Psychology: Reframe safety + Loss Aversion)
+"I understand why it feels that way. But long-term rental is simple, not safe. You're accepting a fixed ceiling on what the asset earns in exchange for not having to think about it. With us, you still get hands-off — but the upside stays yours. A well-managed, high-performing property is actually safer — better maintained, better reviewed — than one sitting with a tenant for 12 months."
 
-13. "I don't want to lose control"
-"You're not giving away the asset. The structure is built so you keep ownership while the operational side is handled professionally."
+13. "Another company is cheaper" (Psychology: Contrast + Authority)
+"That may be true. Price alone isn't the real comparison. Scope, execution, responsiveness, and fit for your property — that's the real comparison. A lower fee that covers less scope ends up costing you more in performance."
 
-14. "What if performance is weak?"
-"That's exactly why alignment matters. Under our model, we're directly tied to execution. The structure doesn't reward weak operating behavior."
+14. "I don't want to lose control" (Psychology: Autonomy + Reassurance)
+"You're not giving away the asset. The structure is built so you keep ownership and the upside while the operational side is handled professionally. You still approve major decisions."
 
-15. "I'm worried about guest issues"
-"That's a big part of why owners use us. The whole point is to remove the day-to-day operational drag from your side."
+15. "What if performance is weak?" (Psychology: Alignment)
+"That's exactly why alignment matters. Under our model, we don't earn unless you earn. The structure doesn't reward weak operating behavior — it punishes it."
 
-16. "I want a lower percentage"
-"Before we talk about changing economics, let's make sure we're aligned on scope, property fit, and what success actually looks like. Most percentage objections are really scope or confidence objections."
+16. "I want a lower percentage" (Psychology: Reframe before discussing rate)
+"Before we talk about changing economics, let's make sure we're aligned on scope, property fit, and what success looks like. Most percentage objections are really scope or confidence objections. Which one is it on your side?"
 
-17. "I just want a guarantee"
-"I understand the desire for certainty. Our standard structure is still revenue-share. If the property is strong enough and certainty remains the only real blocker, that's the point where founder review might make sense."
+17. "I just want a guarantee" (Psychology: Honesty + Escalation path)
+"I understand the desire for certainty. We don't make guarantees — anyone who does is not being straight with you. Our 20 Vancouver properties average 75–80% occupancy. If certainty remains the only real blocker and the property is exceptional enough, that's when founder review for a different structure makes sense."
 
-18. "I need more time"
+18. "I need more time" (Psychology: Diagnostic + Next step)
 "No problem. What specifically do you need to get comfortable — more clarity, another decision-maker involved, or a cleaner proposal?"
 
-19. "I'm comparing a few options"
+19. "I'm comparing a few options" (Psychology: Contrast + Confidence)
 "That's sensible. The key is not to compare headlines. Compare who takes real execution responsibility, how aligned the structure is, how strong the communication is, and how well the model fits your property."
 
-20. "I'm worried this will be too complicated"
-"That's exactly the problem we're trying to remove for you. Complexity should sit on the operator side, not on yours."
+20. "I'm worried this will be too complicated" (Psychology: Simplicity + Authority)
+"That's exactly the problem we're trying to remove for you. Complexity should sit on the operator side, not on yours. Your job is to receive the monthly report and the deposit."
 
 ═══════════════════════════════
 OBJECTION HANDLING — AGENT (10 objections)
@@ -546,42 +576,125 @@ THINGS REPS MUST NEVER SAY
 - "This place is awesome, we could crush it on Airbnb"
 - "A lot of managers are terrible"
 
+--- WIN-11: Owner says "I'll think about it" three times — rep closes on the third call ---
+Owner said "I'll think about it" after call 1 and call 2. Rep didn't chase softly.
+Rep on call 3: "I've reached out twice and I don't want to keep following up without a clear direction. Can I ask directly — is the main issue the fee, the trust in us as an operator, or is the timing genuinely not right? If it's one of those, I'd rather address it properly than keep this hanging."
+Owner: "Honestly, my wife isn't convinced."
+Rep: "That makes sense. The easiest fix is a short 20-minute call with both of you so she can ask anything she wants directly. I'll bring the revenue projection. If after that it still doesn't feel right, I'll respect that. Can we do Thursday evening?"
+Owner: "Yeah, Thursday works."
+[Meeting happened. Wife's concern was property damage. Rep walked through insurance + inspection process. Agreement signed the following week.]
+WHY IT WORKED: Rep named the elephant directly instead of soft-chasing. Pulled in the missing decision-maker before sending a proposal into a black hole.
+COACH NOTE: When an owner stalls 2+ times, don't send more info. Ask the direct question. Then solve for the actual blocker, not the stated one.
+
+--- WIN-12: 25% fee objection handled without discounting — deal closed at full rate ---
+Owner: "Look, I've spoken to two other companies. One quoted 18%, one quoted 20%. You're at 25%. That's significantly more."
+Rep: "I appreciate you being straight with me. Can I ask — when they quoted 18% and 20%, did they walk you through what they actually manage? Pricing, guest screening, channel mix, direct booking, maintenance coordination, reporting?"
+Owner: "Not really. It was more of a quick pitch."
+Rep: "That's the issue. A lower fee that covers less scope ends up costing you more in performance. Our 25% includes active channel management — we don't just list on Airbnb and hope. For comparable properties we manage, the net payout to the owner is higher than what owners get elsewhere on 18%, because the performance difference more than covers the fee gap. Let me show you a projection side by side."
+Owner: "Okay, show me the numbers."
+[Rep sent projection. Owner signed at 25% the following week.]
+WHY IT WORKED: Rep never defended the fee. He reframed the comparison. Made the owner realize he was comparing prices not value.
+COACH NOTE: When owner compares fees, never match or discount first. Make them compare scope and performance, not percentages.
+
+--- WIN-13: Agent intro converted to signed agreement in 8 days ---
+Agent introduced owner of a 5-bed West Van home. Rep responded same day.
+Rep to owner: "Sarah mentioned you've been managing the property yourself and it's become more work than you expected. Is that a fair read?"
+Owner: "Pretty much. It's fine but I spend more time on it than I want to."
+Rep: "That's exactly who we work with. Let me ask — are you mainly trying to solve for time, or are you also looking at whether the income could be meaningfully higher?"
+Owner: "Both, honestly."
+Rep: "Then let's do this: I'll pull a revenue projection for your property by tomorrow. If the numbers look right, we get on a 30-minute call to go through it and decide whether it makes sense to move forward. Fair?"
+Owner: "Sure."
+[Projection sent next morning. 30-min call happened two days later. Agreement sent same day. Signed 3 days after that.]
+WHY IT WORKED: Rep discovered pain immediately, confirmed two motivators (time + income), and moved to a concrete next step before the owner could drift. Speed protected the deal.
+COACH NOTE: When an agent intro lands warm, move fast. Warm leads cool quickly. Discovery + projection + call + agreement — all within one week.
+
+--- WIN-14: Owner comparing Luvilla to self-managing — rep reframes and closes ---
+Owner: "I've been doing it myself for two years. It works fine. Why would I change?"
+Rep: "That's a fair question and I'm not going to pretend something's broken if it isn't. Can I ask — what does 'fine' actually mean? Is the income where you want it, or is it just manageable?"
+Owner: "Income is okay. But I spend a lot of weekends dealing with it."
+Rep: "So the real cost isn't the money — it's the time. What would you do with those weekends if you weren't managing the property?"
+Owner: "Probably more time with the family, honestly."
+Rep: "That's the actual trade-off. You're currently running a part-time job that pays you some money. We take that entire job off your plate, and typically improve the payout at the same time because of how we manage pricing and channels. The question isn't whether it's working. It's whether your time is worth more than what you're keeping by doing it yourself."
+Owner: "When you put it that way... let's see the numbers."
+WHY IT WORKED: Rep didn't argue with "it's fine." He uncovered the hidden cost — time — and reframed the decision around lifestyle not money.
+COACH NOTE: "It's fine" is not a closed door. It's an invitation to find the real friction. Always ask what "fine" actually means.
+
+--- WIN-15: Skeptical owner who "never heard of Luvilla" — trust built and closed ---
+Owner: "I haven't heard of Luvilla. How do I know you're not going to disappear in 6 months?"
+Rep: "That's the right question to ask. Honestly, we're selective — we don't take every property and we don't advertise everywhere. We'd rather build slowly with the right owners than grow fast with the wrong ones."
+Owner: "That sounds good but I need more than words."
+Rep: "Fair. I'll do three things: one, I'll send you our current portfolio overview so you can see what we actually manage. Two, I'll connect you with one of our current owners — you can call them directly and ask anything. Three, our agreement has a 60-day exit clause, so if we're not performing, you're not locked in. Does that address the concern?"
+Owner: "The owner reference would help a lot."
+Rep: "I'll make that intro today. Once you've spoken to them, let's get back on a call and decide whether to move forward. Sound fair?"
+[Rep made the intro the same afternoon. Reference call happened two days later. Owner signed within a week.]
+WHY IT WORKED: Rep didn't oversell. He gave three concrete proof points and created a low-risk path forward. The exit clause removed the biggest fear — being trapped.
+COACH NOTE: For skeptical owners, proof beats pitch every time. Offer a reference call immediately. The rep who offers a reference sounds more confident than the one who just talks.
+
 ═══════════════════════════════
-REJECTION RECOVERY
+REJECTION RECOVERY — PSYCHOLOGY-BASED
 ═══════════════════════════════
 
-"Not interested": "Completely respect that. Before I let you go — is it the timing, or is there a specific concern I haven't addressed?"
-"Already have someone": "Is that working well, or is there something about the current setup that made you take this call?"
-"Too busy": "Can I send something short — 3 minutes to read — so you have it when the time is right?"
-"I'll think about it": "What specifically would you want to think through? Economics, trust, or timing?"
-"Not ready yet": "What would need to be true for this to make sense in 3 months?"
-"Bad experiences with short-term rentals": "What specifically did you hear? I want to address it directly."
+"Not interested":
+"Completely respect that. Before I let you go — is it the timing that's off, or is there a specific concern I haven't addressed properly?"
+
+"Already have someone":
+"Good to know. Is that working the way you actually want it to? Because if it is, you probably shouldn't change. But if you're taking this call, there's usually something about the current setup that isn't quite right."
+
+"Too busy":
+"I get it. Can I send something short — 3 minutes to read — so you have it when the time is right? No follow-up pressure."
+
+"I'll think about it" (after full pitch):
+"Of course. One thing — when people say that, it's usually economics, trust, or timing. Which one is the real issue? I'd rather address it properly than have you sitting with a concern I don't know about."
+
+"Not ready yet":
+"Fair. What would need to be true for this to make sense in 3 months? I'd rather check back at the right time than the wrong one."
+
+"Bad experiences with short-term rentals":
+"That's worth taking seriously — there are operators who run it badly. What specifically happened? I want to address it directly rather than pretend it's not a real concern."
+
+Post-rejection follow-up (1 week later — Psychology: Loss Aversion + Low pressure):
+"[Name], I know you said the timing wasn't right. I won't push — but I put together a quick revenue projection for a property similar to yours nearby. Every month without a strategy is a month that doesn't come back. If you want to see the numbers, happy to send it over. If not, no problem."
 
 ═══════════════════════════════
-CLOSING RULES
+CLOSING — PSYCHOLOGY-BASED
 ═══════════════════════════════
 
-Always end with a real next commitment.
+Psychology: Autonomy + Low-friction ask + Loss Aversion (never pressure, always clarity)
 
-Strong closes:
-- "The right next step is a short call with everyone involved. Are you free Wednesday or Thursday?"
-- "I'll send the revenue projection today. If it reflects what we discussed, are you comfortable moving toward agreement this week?"
-- "Let's put 15 minutes on the calendar — you review the model with context and we get to a clean yes or no."
-- "Based on what we covered, the fit sounds right. The next step is simply getting the agreement in front of you. I'll send that today — if the terms match this conversation, is there any reason we wouldn't move forward?"
+After discovery, before proposal:
+"Based on what you've shared, I think there's a real fit. Here's what I'd suggest: let me build a revenue projection for your property — takes me a day — and then we get on a 30-minute call to review it together. No commitment, just real numbers. If they make sense, we talk next steps. If they don't, I'll tell you honestly. Does that work?"
+
+After sending proposal:
+"I don't want this sitting in your inbox without a clear direction. From your side — is the main question now the fee, the fit, or the timing? If I know that, we can get to a clean yes or no much faster."
+
+Proposal close (Psychology: Autonomy close — forces blocker or yes):
+"We've covered the model, we've looked at the numbers, and from what you've said the fit seems right. The next step is simply getting the agreement in front of you. If the terms match what we discussed — and they will — is there any reason we wouldn't move forward?"
+
+Final close for hesitant owner (Psychology: Loss Aversion without pressure):
+"I want to be straight with you. The property is either earning or it's not. Every month it sits without a proper strategy is a month you don't get back. I'm not asking you to commit to forever — I'm asking you to look at the real numbers for your specific property and make an informed decision. That's all. Can we do that?"
 
 ═══════════════════════════════
-FOLLOW-UP RULES
+FOLLOW-UP — PSYCHOLOGY-BASED
 ═══════════════════════════════
 
-Every follow-up must do one of:
-- Clarify the real concern
-- Reduce a specific friction
-- Restate why the fit is strong
-- Ask for a decision
-- Add the missing decision-maker
-- Move to proposal or agreement
+Psychology: Purpose + Directness. Never chase softly. Every follow-up must do one real thing.
 
-Never chase weakly. Follow up with purpose.
+After first call, no response:
+"[Name], I don't want to keep following up without a clear direction.
+From your side — is this still worth exploring, or has something changed?
+If timing's off, I'd rather know now and circle back properly. If there's still interest, the cleanest next step is reviewing the projection together. Which is it?"
+
+After proposal, no response:
+"[Name], I sent the proposal [X] days ago and I want to respect your time.
+One direct question: is the main hesitation the fee, the fit with us as an operator, or the timing?
+If I know that, we can resolve it in one conversation. If you've decided not to move forward, that's okay — just let me know so I can close the file properly."
+
+After "I'll think about it":
+"No problem at all. One thing — when people say they need to think, it's usually one of three things: the numbers don't feel certain enough, there's a trust question, or the timing isn't right.
+Which one is the real issue on your side? If I know that, I can actually help rather than just wait."
+
+After silence for 7+ days:
+"[Name], I don't want to chase this without purpose. If the timing is genuinely wrong, we can close the loop for now and I'll reach back out when it makes more sense. If it's still active — the cleanest next step is a 15-minute call this week to get to a clear yes or no. Which is it?"
 
 ═══════════════════════════════
 SCORING RUBRIC (out of 100)
