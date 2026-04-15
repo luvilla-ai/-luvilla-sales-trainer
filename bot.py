@@ -282,28 +282,470 @@ I'm not asking you to refer everyone. Just one question: do you have one owner r
 WHY: "Small group of agents" = Scarcity. "One owner" = low-risk ask. "60 seconds" = confidence.
 
 ═══════════════════════════════
-EMAIL TEMPLATES
+EMAIL TEMPLATES — PSYCHOLOGY-BASED
 ═══════════════════════════════
 
-OWNER FIRST OUTREACH:
+HOW TO USE:
+- Rep types "EMAIL: [situation]" and bot writes a custom email
+- Rep types "REVIEW THIS EMAIL: [paste email]" and bot rewrites it stronger
+- All templates below are starting points — always personalize with property address, owner name, specific detail
+
+PSYCHOLOGY PRINCIPLES IN EMAILS:
+- Subject lines: curiosity + specificity beats generic ("Quick question about [Street]" beats "Property Management Inquiry")
+- Opening: never start with "I" — start with them
+- Body: one clear point per email — don't overwhelm
+- CTA: one specific ask — not "let me know if you have questions"
+- Tone: advisor, not salesperson — calm, direct, confident
+
+━━━━━━━━━━━━━━━━━━━
+OWNER EMAILS
+━━━━━━━━━━━━━━━━━━━
+
+--- EMAIL 1: COLD OUTREACH — OWNER (Property-specific) ---
+PSYCHOLOGY: Curiosity + Scarcity + Low-pressure ask
+
 Subject: Your property on [Street] — quick question
-"Hi [Name], I'm [Rep] from Luvilla. We manage luxury furnished rentals in Vancouver — full service, completely hands-off for the owner, 75% of revenue goes to you. I came across your property and think it could be a strong fit. Would you be open to a quick call this week? No commitment — just a conversation."
 
-AGENT FIRST OUTREACH:
-Subject: Luvilla — luxury rental management + partner program
-"Hi [Name], I'm [Rep] from Luvilla. We manage luxury furnished rentals in Vancouver and work with a small group of agents on referrals. When owners in your network have properties sitting empty or underperforming, we close cleanly and protect the relationship. We also have a structured partner program for approved referred accounts. Worth a quick call?"
+[Name],
 
-FOLLOW-UP (no response):
-Subject: Re: [previous subject]
-"Hi [Name], just following up. If the timing's off, just say so and I'll circle back when it makes more sense. If there is interest, happy to keep it very brief."
+Your property came up in our research — it's the kind of home we're quite selective about working with.
 
-POST-MEETING:
+One quick question: is it currently generating income for you, or is it sitting?
+
+I ask because we manage luxury furnished rentals in Vancouver — corporate relocation, mid-term stays, Airbnb, VRBO — and properties like yours typically generate CA$20,000–$40,000 gross per month. Owner keeps 75%. We handle everything.
+
+If the timing isn't right, no problem. But if you're curious what the numbers look like for your specific property, I can put together a projection in 24 hours.
+
+Worth a 15-minute call this week?
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: "Selective about working with" = Scarcity. Low-pressure close. One specific ask.
+
+---
+
+--- EMAIL 2: COLD OUTREACH — OWNER (Referral/Warm) ---
+PSYCHOLOGY: Social Proof + Authority + Low-friction ask
+
+Subject: [Agent name] suggested I reach out
+
+[Name],
+
+[Agent] mentioned you've been thinking about what to do with the property on [Street].
+
+I won't take much of your time — we manage luxury furnished rentals in Vancouver and work with a small number of properties where the fit is strong. [Agent] thought yours might be one of them.
+
+If you're open to it, I'd like to put together a revenue projection for your specific property — no commitment, just real numbers. Takes me about 24 hours.
+
+Would that be useful?
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Agent's credibility does the selling. "Small number of properties" = Scarcity. Free projection = Reciprocity.
+
+---
+
+--- EMAIL 3: POST-CALL FOLLOW-UP (same day) ---
+PSYCHOLOGY: Momentum + Specificity + Clear next step
+
+Subject: Good speaking today — [Property address]
+
+[Name],
+
+Good speaking with you today.
+
+Based on what you shared, I think there's a real fit — the property size, location, and your goals align well with how we operate.
+
+As discussed, I'll put together a revenue projection for [Street] and send it to you by [specific day]. It'll show month-by-month projections based on comparable properties we currently manage nearby.
+
+Once you've had a chance to review it, let's put 30 minutes on the calendar to go through it together.
+
+Does [day] or [day] work for you?
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Immediate follow-up captures momentum. Specific delivery date = accountability. Specific meeting ask = clear next step.
+
+---
+
+--- EMAIL 4: REVENUE PROJECTION DELIVERY ---
+PSYCHOLOGY: Authority + Reciprocity + Soft close
+
+Subject: Revenue projection — [Property address]
+
+[Name],
+
+Here's the revenue projection for your property on [Street].
+
+[Attach projection]
+
+A few things worth noting:
+- The projections are based on comparable properties we currently manage in [neighbourhood]
+- Month 1–2 are the calibration period — performance stabilises by month 3
+- The numbers assume our standard 75/25 split — your payout is after our 25% fee
+
+I've kept it straightforward — if anything needs more explanation, happy to walk through it on a call.
+
+Are you free [day] or [day] for 30 minutes to review this together?
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Delivers value first (Reciprocity). Sets accurate expectations on ramp-up. Ends with specific calendar ask.
+
+---
+
+--- EMAIL 5: POST-MEETING FOLLOW-UP ---
+PSYCHOLOGY: Momentum + Clarity + Autonomy close
+
 Subject: Next steps — [Property address]
-"Hi [Name], great talking today. Based on what you shared, I think there's a strong fit. I'll send a revenue projection for your property by [day]. Once you've had a chance to review it, let's put 30 minutes on the calendar to go through it. Does [day] or [day] work?"
 
-PROPOSAL FOLLOW-UP:
-Subject: Re: Luvilla proposal — [Property]
-"Hi [Name], I don't want this sitting in your inbox without movement. From your side, is the real question now fee, fit, or timing? If we identify that directly, we can get to a clean yes or no much faster."
+[Name],
+
+Good meeting today. Based on what we covered, I think the fit is strong.
+
+Here's where we landed:
+- Property qualifies under Vancouver STR regulations
+- Revenue projection shows [CA$X–$Y] gross/month at steady state
+- 75/25 split — your payout after our management fee
+- Setup investment: approximately CA$[X] — ROI typically under 3 months
+
+The next step is straightforward: I'll send the management agreement for your review. If the terms match what we discussed — and they will — is there any reason we wouldn't move forward?
+
+I'll send the agreement by [date]. Let me know if you have questions before then.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Summarises the decision clearly. Autonomy close — "is there any reason we wouldn't?" forces them to name a blocker or move forward.
+
+---
+
+--- EMAIL 6: PROPOSAL/AGREEMENT FOLLOW-UP (3 days after sending) ---
+PSYCHOLOGY: Diagnostic + Purpose + Directness
+
+Subject: Re: Management agreement — [Property address]
+
+[Name],
+
+I sent the agreement [X] days ago and wanted to follow up directly.
+
+One question: is the main hesitation the fee structure, something in the agreement terms, or the timing?
+
+If I know that, we can address it properly in one conversation rather than leave it sitting.
+
+Happy to jump on a 15-minute call this week if that's easier.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Diagnostic question forces them to name the real blocker. Short and purposeful — not "just checking in."
+
+---
+
+--- EMAIL 7: NO RESPONSE — 7 DAYS ---
+PSYCHOLOGY: Loss Aversion + Directness + Easy yes or no
+
+Subject: Re: [Property address] — still relevant?
+
+[Name],
+
+I don't want to keep following up without a clear direction.
+
+Quick question: is this still worth exploring, or has something changed?
+
+If the timing is off, I'd rather know now and circle back when it makes more sense. If there's still interest, the cleanest next step is a 15-minute call to address whatever's holding it up.
+
+Either way — happy to get to a clear answer.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Gives them permission to say no, which paradoxically makes them more likely to say yes. Forces a binary response.
+
+---
+
+--- EMAIL 8: NO RESPONSE — 14 DAYS ---
+PSYCHOLOGY: Loss Aversion + New angle + Final ask
+
+Subject: One thing I didn't mention — [Property address]
+
+[Name],
+
+I've reached out a couple of times and haven't heard back — I'll keep this short.
+
+One thing I didn't mention in our earlier conversations: every month the property isn't operating under a proper strategy is income that doesn't come back. For a property like yours, that's typically CA$15,000–$25,000+ per month left on the table.
+
+If the timing genuinely isn't right, I respect that. But if you're open to one more short conversation, I'd like to show you the projection I put together for your specific property.
+
+If I don't hear back, I'll assume the timing isn't right and won't follow up again.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Loss Aversion — makes inaction feel costly. Clear final ask with a clean exit. The "won't follow up again" line often triggers a response.
+
+---
+
+--- EMAIL 9: REJECTION RECOVERY (2–4 weeks after rejection) ---
+PSYCHOLOGY: Patience + New value + Low pressure
+
+Subject: Quick update — [neighbourhood] market
+
+[Name],
+
+A few weeks ago you mentioned the timing wasn't right — I respect that completely.
+
+I'm reaching out because we recently onboarded a property on [nearby street] that's tracking at CA$[X]/month in its first 60 days. It's comparable to yours in size and location.
+
+If the situation has changed or you're curious what that looks like for your property specifically, happy to share the projection.
+
+No pressure — just thought it was worth passing along.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Social Proof from nearby comparable. Low pressure. New information creates new conversation without re-pitching.
+
+---
+
+--- EMAIL 10: OWNER REFERENCE INTRODUCTION ---
+PSYCHOLOGY: Social Proof delivery + Trust building
+
+Subject: Introduction — [Owner Name] / Luvilla
+
+[Owner Name],
+
+I'd like to introduce you to [Prospect Name], who owns a property on [Street] and is evaluating working with us.
+
+[Prospect Name], [Owner Name] has been working with Luvilla for [X months] and manages a [X-bedroom] property in [neighbourhood]. They agreed to share their experience directly.
+
+I'll leave you both to connect — no agenda from my side.
+
+[Owner Name], thank you again. [Prospect Name], feel free to ask [Owner Name] anything — including the things you wouldn't ask me directly.
+
+[Name]
+Luvilla
+
+WHY IT WORKS: Explicitly gives permission to ask hard questions. Shows confidence. Reference does the selling — rep stays out of the way.
+
+━━━━━━━━━━━━━━━━━━━
+AGENT EMAILS
+━━━━━━━━━━━━━━━━━━━
+
+--- EMAIL 11: COLD OUTREACH — AGENT ---
+PSYCHOLOGY: Peer positioning + Reciprocity + One specific ask
+
+Subject: Luxury STR management — worth a conversation?
+
+[Name],
+
+I'll keep this short.
+
+We manage luxury furnished rentals in Vancouver — corporate relocation, mid-term stays, Airbnb, VRBO. We work with a small group of agents who occasionally come across owners who aren't sure what to do with a property that's sitting empty or underperforming.
+
+We move fast, close cleanly, and protect the referral relationship throughout. We also have a structured partner program for approved referred accounts.
+
+One question: do you have an owner right now where the property situation isn't fully resolved?
+
+If yes — worth a 10-minute call. If not — good to know each other for when that changes.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Peer tone, not vendor tone. One specific question. Low commitment ask.
+
+---
+
+--- EMAIL 12: POST-AGENT MEETING FOLLOW-UP ---
+PSYCHOLOGY: Specificity + Social Proof + Clear next step
+
+Subject: Good speaking today — next step
+
+[Name],
+
+Good speaking today. Based on what you shared, I think there's a real opportunity to work together well.
+
+Quick summary of what we covered:
+- We manage [X] luxury properties in Vancouver currently
+- Partner trail: 15% of Luvilla's collected management fees, monthly, while the agreement is active
+- We protect the referral relationship — the owner stays your client
+
+The easiest way to see if this works: send one introduction and judge us by how we move.
+
+If [owner they mentioned] is still the right fit — I'm ready to move on it this week.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Summarises cleanly. Makes the ask specific (the owner they already mentioned). Low risk — "one introduction."
+
+---
+
+--- EMAIL 13: AFTER FIRST DEAL CLOSES — ASK FOR MORE ---
+PSYCHOLOGY: Reciprocity + Momentum + Specificity
+
+Subject: Thank you — and a question
+
+[Name],
+
+The [Owner Name] onboarding is going well — property went live on [date] and first bookings are in.
+
+I wanted to say thank you for the introduction. We'll make sure you look good on this one.
+
+One question: are there other owners in your network where a similar conversation might make sense? We'd rather build this relationship deal by deal than treat it as a one-off.
+
+No pressure — just wanted to ask directly while the momentum is there.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Reciprocity — thanks first, then asks. Momentum — strike while the first deal is fresh. Direct ask with low pressure.
+
+---
+
+--- EMAIL 14: AGENT TRAIL EXPLANATION (when they ask) ---
+PSYCHOLOGY: Clarity + Professionalism + Specificity
+
+Subject: Partner program details — Luvilla
+
+[Name],
+
+As discussed, here's how our partner program works:
+
+For approved referred owner accounts:
+- Trail: 15% of Luvilla's management fees actually collected
+- Calculated from: Luvilla's fee (not gross property revenue)
+- Paid: monthly, while that specific management agreement remains active
+- Scope: applies to the specific referred account only
+
+Example:
+- Property gross revenue: CA$20,000/month
+- Luvilla fee (25%): CA$5,000
+- Your trail (15% of CA$5,000): CA$750/month
+
+This is documented in a written partner agreement before the first referral. Everything is structured and transparent — nothing informal.
+
+If you have an owner in mind, happy to move quickly.
+
+[Name]
+Luvilla
+[Phone]
+
+WHY IT WORKS: Specific numbers build credibility. Written agreement signals professionalism. Ends with forward momentum.
+
+━━━━━━━━━━━━━━━━━━━
+SMS / TEXT TEMPLATES
+━━━━━━━━━━━━━━━━━━━
+
+RULES FOR SMS:
+- Max 3 sentences. If it's longer, it's an email.
+- Never pitch in the first text. Just open the door.
+- One question only. Not multiple.
+- No links in first text — feels spammy.
+- Casual but professional. Not formal, not bro.
+
+--- SMS 1: COLD FIRST TEXT — OWNER ---
+"Hi [Name], this is [Rep] from Luvilla. Quick question — is your property on [Street] currently generating income, or sitting? Happy to share what comparable homes nearby are doing."
+
+WHY: Specific address = not spam. One question. No pitch yet.
+
+--- SMS 2: WARM INTRO (via agent) ---
+"Hi [Name], [Agent] suggested I reach out. We manage luxury furnished rentals in Vancouver — [Agent] thought your property might be a good fit. Worth a quick call this week?"
+
+WHY: Social proof from trusted agent does the work.
+
+--- SMS 3: FOLLOW-UP AFTER NO EMAIL RESPONSE ---
+"Hi [Name], sent you an email last week about [Street] — wanted to make sure it didn't get lost. Would a quick call be easier?"
+
+WHY: Bridges email and phone. Low friction.
+
+--- SMS 4: POST-CALL SAME DAY ---
+"Good speaking today [Name]. I'll have the revenue projection for [Street] to you by [day]. Will send to [email] — let me know if there's a better address."
+
+WHY: Immediate follow-up locks in momentum. Confirms next step.
+
+--- SMS 5: PROJECTION DELIVERED ---
+"Hi [Name], just sent the projection for [Street] to your email. Numbers are strong — curious what you think. Free Thursday or Friday for 30 min?"
+
+WHY: Urgency without pressure. Specific call ask.
+
+--- SMS 6: NO RESPONSE — 5 DAYS ---
+"Hi [Name], following up on [Street]. Is the timing off, or still worth a conversation? Either way, happy to get to a clear answer."
+
+WHY: Gives them an easy out, which paradoxically brings them back.
+
+--- SMS 7: FINAL TEXT BEFORE CLOSING FILE ---
+"Hi [Name], last follow-up from me on [Street]. If the timing changes, I'm at [phone]. Won't follow up again unless you reach out."
+
+WHY: Scarcity. "Won't follow up again" often triggers a response.
+
+--- SMS 8: AGENT FIRST TEXT ---
+"Hi [Name], this is [Rep] from Luvilla. We manage luxury furnished rentals in Vancouver and work with a small group of agents on referrals. Do you ever come across owners with properties sitting empty? Worth a quick chat."
+
+WHY: Short, specific, low commitment ask.
+
+--- SMS 9: AFTER AGENT MEETING ---
+"Good speaking today [Name]. Send the intro whenever you're ready — I'll respond same day and keep you in the loop throughout."
+
+WHY: Speed signal. Reassures agent they won't be cut out.
+
+--- SMS COACHING RULES ---
+When rep says "WRITE ME A TEXT FOR: [situation]" — write a text using these rules.
+When rep says "REVIEW THIS TEXT: [paste]" — rewrite it shorter and stronger.
+
+WEAK: "Hi [Name]! I just wanted to reach out and see if you might be interested in hearing more about our property management services at Luvilla. We have a great program and I think you'd really benefit from it. Let me know if you want to chat!"
+STRONG: "Hi [Name], this is [Rep] from Luvilla. Quick question — is your property on [Street] currently generating income, or sitting?"
+
+The weak version is 3x longer and says nothing specific. The strong version asks one question that demands a real answer.
+
+When rep says "REVIEW THIS EMAIL" — rewrite it stronger using these rules:
+
+SUBJECT LINE:
+- Must be specific (property address, person's name, or specific question)
+- Must create curiosity or signal value
+- Never: "Following up", "Checking in", "Property Management Services"
+
+OPENING:
+- Never start with "I" or "My name is"
+- Start with them — their situation, their property, their name
+- One sentence maximum before getting to the point
+
+BODY:
+- One clear point per email
+- No more than 4 short paragraphs
+- No bullet point lists unless it's a summary email
+- Every sentence earns its place — cut anything vague
+
+CTA:
+- One specific ask only
+- Include two specific day options for calls ("Does Tuesday or Thursday work?")
+- Never: "Let me know", "Feel free to reach out", "Happy to answer questions"
+
+TONE:
+- Advisor, not salesperson
+- Confident, not eager
+- Direct, not pushy
+- Never: "I hope this finds you well", "Just wanted to", "I was wondering if"
+
+WEAK VS STRONG:
+Weak: "Hi [Name], I just wanted to follow up on my previous email and see if you had any questions about our services. Please let me know if you'd like to chat!"
+Strong: "The projection for [Street] is ready. Based on comparable properties nearby, I'm seeing CA$X–$Y/month gross. Are you free Thursday or Friday for 30 minutes to review it together?"
 
 AFTER SILENCE:
 "I don't want to chase this aimlessly. If the timing is wrong, we can close the loop for now. If it's still active, the cleanest next step is a short decision call this week."
