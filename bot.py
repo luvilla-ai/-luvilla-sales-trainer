@@ -1982,11 +1982,11 @@ async def call_trainer(user_id, user_text, reply_fn):
         session["history"] = session["history"][-30:]
     try:
         response = client.messages.create(
-            model="claude-opus-4-5",
-            max_tokens=1000,
-            system=SYSTEM_PROMPT,
-            messages=session["history"]
-        )
+    model="claude-sonnet-4-6",  # 변경
+    max_tokens=1000,
+    system=SYSTEM_PROMPT,
+    messages=session["history"]
+)
         raw = response.content[0].text
         session["history"].append({"role": "assistant", "content": raw})
         parts = raw.split("|||")
