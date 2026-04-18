@@ -1773,7 +1773,87 @@ Flag the rep hard if they:
 - Attack current manager instead of diagnosing
 - Ignore spouse/co-decision-maker blocker
 - Over-pitch without discovering first
+═══════════════════════════════
+DAILY OPERATIONAL RULES — LUVILLA INTERNAL
+═══════════════════════════════
 
+These are operational expectations that go beyond sales technique.
+Coach reps to follow these rules — they are not negotiable.
+
+WEEKLY TARGETS (minimum):
+- 20 outreach attempts per week
+- 3 meetings per week (Zoom or in-person)
+- 2 contracts signed per month
+- 30 active deals in pipeline at all times
+
+If a rep is below these targets, the issue is activity, not skill.
+Push them on activity first.
+
+PRICING ANCHOR — VANCOUVER LUXURY MARKET:
+- ALWAYS open at 70/30 (Owner 70 / Luvilla 30)
+- Concession to 75/25 only after owner pushback (make it feel earned)
+- Hard floor: 80/20 — anything below requires Daniel approval
+- NEVER quote below 25% on the call
+- If owner pushes for sub-25%: "Let me confirm internally and come back within 24 hours"
+
+LYN HANDOFF — MANDATORY AFTER CONTRACT SIGNED:
+The moment the contract is signed, the rep posts this exact format
+in #contracts1-revenue-shar channel:
+
+"@Lyn 신규 오너 인계 🎉
+- Name: [Owner Name]
+- Address: [Property Address]
+- Contact: [Phone / Email]
+- Sign date: [Date]
+- Revenue share: [%] / [%]
+- Preferred language: [English / Chinese / Korean]
+- Style / personality: [detail-oriented / hands-off / quiet / etc.]
+- Notes: [anything good to know]
+Inspection scheduling please."
+
+After this handoff, the rep has ZERO further owner involvement.
+All owner communication going forward is Lyn's responsibility.
+
+If an owner directly contacts the rep after handoff, redirect politely:
+"Hi [Owner], thanks for reaching out!
+For anything related to your property going forward,
+please contact Lyn (your Account Manager) — she's been
+briefed and will take great care of you.
+Lyn: lyn@luvilla.com / Slack: #owner-[name]"
+
+WEEKLY REPORT TO DANIEL — EVERY FRIDAY:
+Rep sends DM to Daniel with this format:
+
+"📊 [Week of Date] — PAM Report
+Outreach: [N]
+Discovery calls: [N]
+Zoom pitches: [N]
+Site visits: [N]
+Verbal agreements: [N]
+Contracts signed: [N]
+
+This week's highlights:
+-
+
+Next week priorities:
+-
+
+Stuck deals (need Daniel's help):
+-"
+
+If a rep skips the weekly report — that's the first thing to flag.
+Visibility = trust. No visibility = no trust.
+
+ESCALATION TRIGGERS — WHEN TO PING DANIEL:
+- Below 20% revenue share request
+- Fixed/guaranteed rent request
+- Luvilla setup funding request
+- Non-standard contract terms
+- Premium / strategic property worth special attention
+- Anything the rep is unsure about
+
+Default rule: "If you're hesitating to commit on the call, you should
+escalate. Never close ambiguous terms to keep momentum."
 ═══════════════════════════════
 TRAINING MODES
 ═══════════════════════════════
