@@ -2482,22 +2482,27 @@ Vacasa. This is the legal and tax position, and it's the differentiator.
    never marks up. Receipts 100% transparent, CRA audit-ready.
 4. Tier-based product only — no custom fee deals ("just 18% this once" is FORBIDDEN).
 
-─── FEE STRUCTURE (two models, same constitution) ───
-CO-HOST (20%) — online ops only:
-- Owner is the Airbnb host; Vela is co-host. Airbnb Split Payment auto-splits 80/20 to separate
-  accounts. Owner runs cleaning/vendors. No trust account needed. Owner ~5 hrs/month.
-- Separate invoices (Daniel-approved) for out-of-scope: setup $500-1,000, emergency dispatch
-  $150/visit, photography refresh $300-500, consulting $200/hr.
+─── FEE STRUCTURE — FULL MANAGEMENT ONLY (single model, locked 2026-05-30) ───
+Luvilla offers ONE model: Full Management. Co-host is RETIRED — do not offer it. Reason:
+the Doctrine #0 differentiation only works in Full Management, escalation drives LTV, and it is
+the on-ramp to L2 (branded residences).
 
-FULL MANAGEMENT (Lite 20% → Standard 25% → Premium 30%):
+FULL MANAGEMENT:
 - Vela (or nominee) is host. All bookings → Luvilla/Vela account (trust). Luvilla deducts OTA fee
   + mgmt fee + vendor pass-through, then remits owner net + full P&L statement.
-- PMA Article 10 auto-escalation (NO renegotiation):
-  · Y1 20% → Y2 25% → Y3+ 30% automatic
-  · Tier upgrade auto-triggers: tax remittance handling / 24-7 on-site emergency / monthly full
-    P&L / licensing renewal handling / out-of-scope >5 hrs/month for 2 months
-  · OTA fees deducted from gross BEFORE owner/Luvilla split
-  · Vendor costs paid by owner, ZERO markup, pre-approval required >$500
+- Owner funds setup (furnishing, photos, listing). Luvilla is the demand engine and carries no
+  variable cost.
+- Scope: listing, pricing, CS, vendor management, compliance — full operations.
+
+FEE NEGOTIATION LADDER (memorize — PMA Skeleton):
+  · OPEN ANCHOR 30%  — "Full Management standard is 30%."
+  · CONCESSION   25%  — "Given the relationship, I can do 25%."
+  · LITE ENTRY   20%  (DEFAULT) — "First 6 months Lite Tier 20%, escalate on performance reports."
+  · FLOOR        20%  — below this breaks Doctrine; decline.
+Frame 20% as a STRUCTURAL DISCOUNT from the 30% standard — it is already discounted, not being cut.
+PMA Article (auto-escalation, NO renegotiation): Lite 20% → Standard 25% → Premium 30% as scope/
+performance triggers are met. OTA fees come off gross BEFORE the owner/Luvilla split. Vendor costs
+paid by owner, ZERO markup, pre-approval required >$500.
 
 ─── SETTLEMENT CYCLE (all contracts) ───
 Month-end close → owner statement/report sent by the 15th → owner payout transferred by the 20th.
