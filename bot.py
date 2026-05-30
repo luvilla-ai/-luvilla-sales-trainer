@@ -1150,7 +1150,7 @@ REPORTING & TRANSPARENCY QUESTIONS
 ═══════════════════════════════
 
 "How do I receive my earnings? When?"
-"Monthly bank transfer, directly to your account. We close the books on the last day of each month and transfer within 5 business days. You'll receive a monthly statement alongside the transfer showing gross revenue, our fee, any expenses, and your net payout. No surprises."
+"Monthly bank transfer, directly to your account. We close the books on the last day of each month, send your statement/report by the 15th, and transfer your payout by the 20th. You'll receive a monthly statement alongside the transfer showing gross revenue, our fee, any expenses, and your net payout. No surprises."
 
 "What does the monthly report look like?"
 "It covers: total bookings, occupancy rate, gross revenue, our management fee, any maintenance costs, and your net payout. We also include a brief market note — how your property performed relative to comparable properties. It's designed so you can read it in 5 minutes and understand exactly what happened."
@@ -2460,6 +2460,68 @@ WHY DANIEL JOINS (when): T1 owners, $10M+ assets, strategic/flagship properties,
 capital signals. Jaybee handles volume and qualification; Daniel enters for the high-value close.
 This mirrors the two-lane model — Jaybee builds the channel and qualifies; Daniel closes the
 whales.
+
+═══════════════════════════════
+CONTRACT STANDARDS — DOCTRINE #0 (the company constitution)
+═══════════════════════════════
+This is how Luvilla contracts with every owner — general owner OR Unsold-listing owner. A home
+is a home; the operating structure is the SAME. Only one thing differs (see Unsold module below).
+
+SAFETY RULE: When answering contract questions, give the standard, then add: "The exact wording
+is in the signed agreement — I'll make sure you see every clause before anything is final." Never
+let a verbal summary stand in for the contract. Never invent a clause that isn't here.
+
+─── THE CORE (identical for all owners) ───
+Luvilla = AGENT (manager). Owner = PRINCIPAL (asset owner). Not a principal-model operator like
+Vacasa. This is the legal and tax position, and it's the differentiator.
+
+4 CONSTITUTIONAL PRINCIPLES (cannot be changed — Daniel only):
+1. Variable cost = Owner 100% (cleaning, maintenance, supplies, utilities, tax, licensing, capex)
+2. Fixed cost = Luvilla 100% (staff, software, brand, finance ops, corporate)
+3. Vendor pass-through, ZERO markup. Luvilla pays vendor from booking income, deducts from owner,
+   never marks up. Receipts 100% transparent, CRA audit-ready.
+4. Tier-based product only — no custom fee deals ("just 18% this once" is FORBIDDEN).
+
+─── FEE STRUCTURE (two models, same constitution) ───
+CO-HOST (20%) — online ops only:
+- Owner is the Airbnb host; Vela is co-host. Airbnb Split Payment auto-splits 80/20 to separate
+  accounts. Owner runs cleaning/vendors. No trust account needed. Owner ~5 hrs/month.
+- Separate invoices (Daniel-approved) for out-of-scope: setup $500-1,000, emergency dispatch
+  $150/visit, photography refresh $300-500, consulting $200/hr.
+
+FULL MANAGEMENT (Lite 20% → Standard 25% → Premium 30%):
+- Vela (or nominee) is host. All bookings → Luvilla/Vela account (trust). Luvilla deducts OTA fee
+  + mgmt fee + vendor pass-through, then remits owner net + full P&L statement.
+- PMA Article 10 auto-escalation (NO renegotiation):
+  · Y1 20% → Y2 25% → Y3+ 30% automatic
+  · Tier upgrade auto-triggers: tax remittance handling / 24-7 on-site emergency / monthly full
+    P&L / licensing renewal handling / out-of-scope >5 hrs/month for 2 months
+  · OTA fees deducted from gross BEFORE owner/Luvilla split
+  · Vendor costs paid by owner, ZERO markup, pre-approval required >$500
+
+─── SETTLEMENT CYCLE (all contracts) ───
+Month-end close → owner statement/report sent by the 15th → owner payout transferred by the 20th.
+Statement shows gross → OTA fee → mgmt fee → vendor (with receipts) → owner net.
+
+─── REPAIR APPROVAL (all contracts) ───
+Routine/minor repairs come out of revenue before payout. Any repair > CA$500 requires owner
+approval first. Everything documented with invoice.
+
+─── UNSOLD MODULE (+3 clauses — the ONLY difference) ───
+For a home that's actively listed for sale, add three sale-coexist clauses on top of the core:
+1. 30-DAY KILL CLAUSE — the moment the owner has a firm offer, Luvilla vacates within 30 days.
+   The sale always wins.
+2. SHOWING ACCESS — 24-48hr notice showings continue throughout; sale process untouched.
+3. REVENUE SHARE 6-MONTH ROLLING — owner 80% / Luvilla 20%, rolling term that ends when the sale
+   closes. (Fixed Rent / master lease is the LAST-RESORT alternative only — see offer order; it
+   puts 100% vacancy risk on Luvilla.)
+Everything else (agent model, 0 markup, settlement cycle, repair approval) is IDENTICAL to the
+core. A home is a home.
+
+─── SOURCE OF TRUTH ───
+The full signed agreements live in Notion: Operations Doctrine (Hub) / Doctrine #0, and the
+Aura-owned Contracts Checklist. The bot gives the standard; the signed contract governs. If an
+owner needs exact clause language, point to the agreement, don't improvise.
 """
 GUIDE_TEXT = """
 🏛 *LUVILLA SALES — QUICK REFERENCE*
