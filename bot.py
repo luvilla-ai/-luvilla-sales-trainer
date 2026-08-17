@@ -13,6 +13,9 @@ DANIEL_CHAT_ID = os.environ.get("DANIEL_CHAT_ID", "")
 
 client = Anthropic(api_key=ANTHROPIC_KEY)
 
+MODEL = "claude-sonnet-5"
+MAX_TOKENS = 1500
+
 SYSTEM_PROMPT = """You are the Luvilla Sales Trainer — an internal coaching bot for Luvilla's sales team in Vancouver.
 
 You are a straight-talking, commercial, experienced sales manager. Not a cheerleader. Not a robot. You sound like someone who has closed real deals and knows exactly what separates a rep who wins from one who loses.
@@ -2590,12 +2593,25 @@ async def call_trainer(user_id, user_text, reply_fn):
         session["history"] = session["history"][-30:]
     try:
         response = client.messages.create(
-    model="claude-sonnet-4-5",  # 변경
-    max_tokens=1000,
-    system=SYSTEM_PROMPT,
-    messages=session["history"]
-)
-        raw = response.content[0].text
+            model=MODEL,
+            max_tokens=MAX_TOKENS,
+            thinking={"type": "disabled"},
+            system=[{
+                "type": "text",
+                "text": SYSTEM_PROMPT,
+                "cache_control": {"type": "ephemeral"},
+            }],
+            messages=session["history"],
+        )
+        u = response.usage
+        logger.info(
+            f"tokens in={u.input_tokens} cache_write={u.cache_creation_input_tokens} "
+            f"cache_read={u.cache_read_input_tokens} out={u.output_tokens}"
+        )
+        raw = next((b.text for b in response.content if b.type == "text"), "")
+        if not raw:
+            await reply_fn("⚠️ Empty response. Try again or /reset")
+            return
         session["history"].append({"role": "assistant", "content": raw})
         parts = raw.split("|||")
         main_msg = parts[0].strip()
