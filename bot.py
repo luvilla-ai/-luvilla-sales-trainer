@@ -1,7 +1,10 @@
 import os
+import re
 import logging
-from anthropic import Anthropic
+import sqlite3
+from anthropic import AsyncAnthropic
 from telegram import Update, ReplyKeyboardMarkup
+from telegram.error import BadRequest
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 logging.basicConfig(level=logging.INFO)
@@ -11,10 +14,16 @@ TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY")
 DANIEL_CHAT_ID = os.environ.get("DANIEL_CHAT_ID", "")
 
-client = Anthropic(api_key=ANTHROPIC_KEY)
+client = AsyncAnthropic(api_key=ANTHROPIC_KEY)
 
 MODEL = "claude-sonnet-5"
-MAX_TOKENS = 1500
+MAX_TOKENS = 2000
+
+# Railway wipes the container filesystem on redeploy, so DB_PATH should point at
+# a mounted Volume. Without one the bot still runs — scores just reset on deploy.
+DB_PATH = os.environ.get("DB_PATH", "/data/trainer.db")
+HISTORY_LIMIT = 30
+TELEGRAM_LIMIT = 4000
 
 SYSTEM_PROMPT = """You are the Luvilla Sales Trainer — an internal coaching bot for Luvilla's sales team in Vancouver.
 
@@ -2577,22 +2586,128 @@ MEETING SIM → full 30-min meeting
 REVIEW THIS → paste message, get rewrite
 SCORE THIS → paste scenario, get scored
 WIN/LOSS REVIEW → analyze a real call
+
+*Unsold / agent track*
+UNSOLD DRILL → cold call an agent sitting on a stale listing (DOM 60+)
+UNSOLD OBJECTIONS → rapid fire agent objections from the Unsold playbook
+PRICE DRILL → agent pushing hard on Fixed Rent — hold the ZOPA
+CLOSE SIM → close an owner an agent just introduced
+AGENT RECRUIT SIM → win one intro from a skeptical outside agent
+BAIT WRITER → write the bait line, get it critiqued
 """
 
-user_sessions = {}
+SCHEMA = """
+CREATE TABLE IF NOT EXISTS messages (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    role TEXT NOT NULL,
+    content TEXT NOT NULL,
+    created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+CREATE INDEX IF NOT EXISTS idx_messages_user ON messages(user_id, id);
+CREATE TABLE IF NOT EXISTS scores (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    score INTEGER NOT NULL,
+    created_at TEXT NOT NULL DEFAULT (datetime('now'))
+);
+CREATE INDEX IF NOT EXISTS idx_scores_user ON scores(user_id, id);
+"""
 
-def get_session(user_id):
-    if user_id not in user_sessions:
-        user_sessions[user_id] = {"history": [], "scores": []}
-    return user_sessions[user_id]
+
+def init_db():
+    global DB_PATH
+    for path in dict.fromkeys((DB_PATH, "trainer.db")):
+        try:
+            parent = os.path.dirname(path)
+            if parent:
+                os.makedirs(parent, exist_ok=True)
+            conn = sqlite3.connect(path)
+            with conn:
+                conn.executescript(SCHEMA)
+            conn.close()
+            DB_PATH = path
+            logger.info(f"DB ready at {path}")
+            return
+        except (OSError, sqlite3.Error) as e:
+            logger.warning(f"DB path {path} unusable: {e}")
+    raise RuntimeError("no writable database path — set DB_PATH")
+
+
+def db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+
+def get_history(user_id):
+    conn = db()
+    rows = conn.execute(
+        "SELECT role, content FROM messages WHERE user_id = ? ORDER BY id DESC LIMIT ?",
+        (user_id, HISTORY_LIMIT),
+    ).fetchall()
+    conn.close()
+    msgs = [{"role": r["role"], "content": r["content"]} for r in reversed(rows)]
+    # The API requires the first message to be from the user, and a window cut
+    # mid-turn can start on an assistant reply.
+    while msgs and msgs[0]["role"] != "user":
+        msgs.pop(0)
+    return msgs
+
+
+def add_message(user_id, role, content):
+    conn = db()
+    with conn:
+        conn.execute(
+            "INSERT INTO messages (user_id, role, content) VALUES (?, ?, ?)",
+            (user_id, role, content),
+        )
+    conn.close()
+
+
+def clear_history(user_id):
+    conn = db()
+    with conn:
+        conn.execute("DELETE FROM messages WHERE user_id = ?", (user_id,))
+    conn.close()
+
+
+def add_score(user_id, score):
+    conn = db()
+    with conn:
+        conn.execute("INSERT INTO scores (user_id, score) VALUES (?, ?)", (user_id, score))
+    conn.close()
+
+
+def get_scores(user_id):
+    conn = db()
+    rows = conn.execute(
+        "SELECT score FROM scores WHERE user_id = ? ORDER BY id", (user_id,)
+    ).fetchall()
+    conn.close()
+    return [r["score"] for r in rows]
+
+
+async def send(reply_fn, text, markdown=False):
+    """Deliver text to Telegram, splitting past the message-length limit and
+    dropping to plain text when model output breaks the Markdown parser."""
+    text = (text or "").strip()
+    if not text:
+        return
+    for i in range(0, len(text), TELEGRAM_LIMIT):
+        chunk = text[i:i + TELEGRAM_LIMIT]
+        if markdown:
+            try:
+                await reply_fn(chunk, parse_mode="Markdown")
+                continue
+            except BadRequest as e:
+                logger.warning(f"Markdown rejected, resending as plain text: {e}")
+        await reply_fn(chunk)
 
 async def call_trainer(user_id, user_text, reply_fn):
-    session = get_session(user_id)
-    session["history"].append({"role": "user", "content": user_text})
-    if len(session["history"]) > 30:
-        session["history"] = session["history"][-30:]
+    add_message(user_id, "user", user_text)
     try:
-        response = client.messages.create(
+        response = await client.messages.create(
             model=MODEL,
             max_tokens=MAX_TOKENS,
             thinking={"type": "disabled"},
@@ -2601,7 +2716,7 @@ async def call_trainer(user_id, user_text, reply_fn):
                 "text": SYSTEM_PROMPT,
                 "cache_control": {"type": "ephemeral"},
             }],
-            messages=session["history"],
+            messages=get_history(user_id),
         )
         u = response.usage
         logger.info(
@@ -2610,39 +2725,40 @@ async def call_trainer(user_id, user_text, reply_fn):
         )
         raw = next((b.text for b in response.content if b.type == "text"), "")
         if not raw:
-            await reply_fn("⚠️ Empty response. Try again or /reset")
+            await send(reply_fn, "⚠️ Empty response. Try again or /reset")
             return
-        session["history"].append({"role": "assistant", "content": raw})
+        add_message(user_id, "assistant", raw)
         parts = raw.split("|||")
-        main_msg = parts[0].strip()
-        await reply_fn(main_msg)
+        await send(reply_fn, parts[0])
         if len(parts) > 1:
             fb = parts[1].strip()
-            import re
             m = re.search(r"SCORE:\s*(\d+)", fb)
             if m:
                 score = int(m.group(1))
-                session["scores"].append(score)
-                avg = sum(session["scores"]) / len(session["scores"])
+                add_score(user_id, score)
+                scores = get_scores(user_id)
+                avg = sum(scores) / len(scores)
                 emoji = "🟢" if score >= 8 else "🟡" if score >= 6 else "🔴"
-                await reply_fn(f"{emoji} *{score}/10* (avg {avg:.1f})\n\n{fb}", parse_mode="Markdown")
+                await send(reply_fn, f"{emoji} *{score}/10* (avg {avg:.1f})\n\n{fb}", markdown=True)
             else:
-                await reply_fn(fb)
+                await send(reply_fn, fb)
     except Exception as e:
         logger.error(f"Error: {e}")
-        await reply_fn("⚠️ Error. Try /reset")
+        await send(reply_fn, "⚠️ Error. Try /reset")
 
 async def notify_daniel(context, user, text):
     if DANIEL_CHAT_ID:
+        # Plain text on purpose: the body carries arbitrary rep input, and a
+        # stray * or _ used to make Telegram reject the whole notification.
+        handle = f"@{user.username}" if user.username else f"id:{user.id}"
+        msg = f"📊 Log\n👤 {user.first_name} ({handle})\n\n{text[:300]}"
         try:
-            msg = f"📊 *Log*\n👤 {user.first_name} (@{user.username})\n\n{text[:300]}"
-            await context.bot.send_message(chat_id=DANIEL_CHAT_ID, text=msg, parse_mode="Markdown")
+            await context.bot.send_message(chat_id=DANIEL_CHAT_ID, text=msg)
         except Exception as e:
             logger.error(f"Notify error: {e}")
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    user_sessions[user_id] = {"history": [], "scores": []}
+    clear_history(update.effective_user.id)
     keyboard = [
         ["ROLEPLAY OWNER", "ROLEPLAY AGENT"],
         ["COLD CALL", "OBJECTION DRILL"],
@@ -2657,36 +2773,37 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "🏛 *LUVILLA Sales Trainer*\n\n"
         "Choose a mode or describe your situation.\n\n"
         "📋 /guide — Quick reference\n"
-        "📊 /score — Your scores\n"
-        "🔄 /reset — Start over",
+        "📊 /score — Your scores (kept across resets)\n"
+        "🔄 /reset — Clear this conversation",
         parse_mode="Markdown",
         reply_markup=reply_markup
     )
 
 async def reset(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    user_sessions[user_id] = {"history": [], "scores": []}
-    await update.message.reply_text("🔄 Reset. Pick a mode or describe your situation.")
+    clear_history(update.effective_user.id)
+    await update.message.reply_text(
+        "🔄 Conversation cleared — your scores are kept.\n"
+        "Pick a mode or describe your situation."
+    )
 
 async def guide(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(GUIDE_TEXT, parse_mode="Markdown")
+    await send(update.message.reply_text, GUIDE_TEXT, markdown=True)
 
 async def score_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    session = get_session(user_id)
-    scores = session.get("scores", [])
+    scores = get_scores(update.effective_user.id)
     if not scores:
         await update.message.reply_text("No scores yet. Start training!")
         return
     avg = sum(scores) / len(scores)
     emoji = "🟢" if avg >= 8 else "🟡" if avg >= 6 else "🔴"
-    await update.message.reply_text(
+    await send(
+        update.message.reply_text,
         f"📊 *Your Scores*\n\n"
         f"{emoji} Avg: *{avg:.1f}/10*\n"
         f"🏆 Best: *{max(scores)}/10*\n"
         f"📍 Last: *{scores[-1]}/10*\n"
         f"🔢 Total reps: *{len(scores)}*",
-        parse_mode="Markdown"
+        markdown=True,
     )
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -2698,6 +2815,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await notify_daniel(context, user, text)
 
 def main():
+    init_db()
     app = Application.builder().token(TELEGRAM_TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("reset", reset))
